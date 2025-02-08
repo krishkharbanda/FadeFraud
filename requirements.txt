@@ -1,6 +1,5 @@
 flask
-uvicorn
-motor
-pydantic
+plaid
 python-dotenv
 requests
+pymongo
