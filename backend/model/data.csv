@@ -1,0 +1,1001 @@
+IP Address,Country,Device ID,Email,Transaction Amount,Transaction Pattern,User Agent,Activity Time (s),Fraud Score (%),Fraudulent
+192.168.1.197,Germany,device_49,user50@example.com,4340,Normal,Obsolete Browser,90,100,1
+192.168.1.96,Iran,device_1,user35@example.com,1301,Normal,Firefox,22,100,1
+192.168.1.138,US,device_29,user26@example.com,1560,High Frequency,Firefox,94,30,0
+192.168.1.24,Iran,device_12,user3@example.com,1749,High Frequency,Chrome,109,90,1
+192.168.1.81,Mexico,device_13,user40@example.com,124,Unusual,Obsolete Browser,50,70,1
+192.168.1.243,US,device_32,user5@example.com,3276,Normal,Safari,75,0,0
+192.168.1.6,Canada,device_21,user8@example.com,4907,Unusual,Firefox,80,100,1
+192.168.1.136,US,device_45,user12@example.com,1527,Normal,Chrome,26,35,0
+192.168.1.229,North Korea,device_50,user30@example.com,2809,Unusual,Firefox,90,60,1
+192.168.1.113,North Korea,device_29,user39@example.com,1557,Normal,Firefox,43,60,1
+192.168.1.142,US,device_18,user21@example.com,4447,Normal,Chrome,86,50,0
+192.168.1.67,US,device_27,user15@example.com,2174,Normal,Chrome,101,0,0
+192.168.1.189,Iran,device_30,user48@example.com,1330,Normal,Obsolete Browser,11,100,1
+192.168.1.160,Canada,device_33,user14@example.com,1058,Unusual,Firefox,86,10,0
+192.168.1.247,Canada,device_6,user43@example.com,4175,High Frequency,Chrome,76,100,1
+192.168.1.216,Iran,device_25,user19@example.com,109,High Frequency,Chrome,117,90,1
+192.168.1.225,Canada,device_1,user16@example.com,2921,Normal,Safari,99,50,0
+192.168.1.48,Canada,device_33,user17@example.com,1232,Normal,Chrome,43,10,0
+192.168.1.228,Iran,device_42,user24@example.com,2640,High Frequency,Obsolete Browser,99,100,1
+192.168.1.110,Germany,device_24,user16@example.com,2235,High Frequency,Safari,117,40,0
+192.168.1.221,Mexico,device_19,user2@example.com,2123,Normal,Chrome,86,10,0
+192.168.1.72,Canada,device_20,user16@example.com,3434,Unusual,Safari,55,10,0
+192.168.1.121,Canada,device_34,user13@example.com,1175,High Frequency,Safari,23,75,1
+192.168.1.57,US,device_49,user29@example.com,3630,High Frequency,Safari,116,55,0
+192.168.1.2,Iran,device_39,user23@example.com,1257,High Frequency,Obsolete Browser,10,100,1
+192.168.1.187,Mexico,device_35,user15@example.com,56,High Frequency,Chrome,78,40,0
+192.168.1.107,Canada,device_34,user47@example.com,281,Normal,Obsolete Browser,90,55,0
+192.168.1.167,North Korea,device_34,user22@example.com,1120,Normal,Obsolete Browser,47,100,1
+192.168.1.192,US,device_4,user44@example.com,3225,High Frequency,Obsolete Browser,83,95,1
+192.168.1.21,Mexico,device_50,user3@example.com,1046,Normal,Obsolete Browser,73,55,0
+192.168.1.19,Mexico,device_23,user21@example.com,4987,Normal,Obsolete Browser,32,100,1
+192.168.1.43,US,device_30,user43@example.com,3727,High Frequency,Firefox,24,65,1
+192.168.1.182,Canada,device_31,user34@example.com,1235,Unusual,Safari,86,10,0
+192.168.1.240,Germany,device_30,user19@example.com,531,Normal,Obsolete Browser,79,70,1
+192.168.1.12,Iran,device_41,user19@example.com,1540,Unusual,Obsolete Browser,97,100,1
+192.168.1.16,Mexico,device_8,user4@example.com,1924,High Frequency,Obsolete Browser,102,100,1
+192.168.1.54,North Korea,device_50,user42@example.com,332,High Frequency,Safari,81,90,1
+192.168.1.91,Iran,device_8,user1@example.com,3119,High Frequency,Chrome,59,100,1
+192.168.1.184,Germany,device_38,user41@example.com,1691,High Frequency,Firefox,82,40,0
+192.168.1.78,Germany,device_18,user15@example.com,827,Normal,Safari,100,10,0
+192.168.1.33,North Korea,device_43,user46@example.com,1345,High Frequency,Safari,16,100,1
+192.168.1.90,Mexico,device_2,user17@example.com,4414,Normal,Firefox,115,80,1
+192.168.1.185,US,device_27,user11@example.com,952,Normal,Chrome,90,0,0
+192.168.1.20,US,device_36,user1@example.com,2789,High Frequency,Chrome,13,65,1
+192.168.1.29,Germany,device_24,user42@example.com,4117,High Frequency,Firefox,118,90,1
+192.168.1.97,Germany,device_13,user34@example.com,238,Normal,Chrome,98,10,0
+192.168.1.101,Mexico,device_10,user39@example.com,1147,Unusual,Firefox,41,30,0
+192.168.1.22,Germany,device_28,user14@example.com,2997,Normal,Safari,40,10,0
+192.168.1.109,Canada,device_37,user49@example.com,4343,Unusual,Firefox,55,60,1
+192.168.1.152,Iran,device_34,user7@example.com,3417,Normal,Chrome,111,60,1
+192.168.1.255,North Korea,device_26,user38@example.com,1788,Normal,Firefox,12,95,1
+192.168.1.46,Germany,device_23,user3@example.com,2854,Normal,Obsolete Browser,20,100,1
+192.168.1.56,Germany,device_34,user39@example.com,3209,Normal,Obsolete Browser,117,55,0
+192.168.1.81,Canada,device_13,user21@example.com,650,Normal,Safari,83,10,0
+192.168.1.249,Canada,device_29,user1@example.com,607,High Frequency,Obsolete Browser,79,85,1
+192.168.1.99,Canada,device_50,user45@example.com,1585,Unusual,Safari,42,30,0
+192.168.1.166,North Korea,device_24,user33@example.com,67,Unusual,Safari,116,60,1
+192.168.1.149,North Korea,device_19,user13@example.com,1406,High Frequency,Firefox,61,90,1
+192.168.1.77,US,device_8,user30@example.com,2892,Unusual,Chrome,53,20,0
+192.168.1.154,Mexico,device_16,user40@example.com,3932,High Frequency,Safari,82,40,0
+192.168.1.180,North Korea,device_23,user39@example.com,4686,Unusual,Chrome,42,100,1
+192.168.1.115,Iran,device_3,user35@example.com,542,Normal,Obsolete Browser,94,100,1
+192.168.1.131,Canada,device_43,user40@example.com,3429,Normal,Chrome,113,10,0
+192.168.1.96,US,device_10,user16@example.com,2110,Unusual,Safari,93,35,0
+192.168.1.3,Germany,device_38,user20@example.com,4347,Unusual,Safari,80,100,1
+192.168.1.132,Iran,device_26,user28@example.com,4349,Normal,Chrome,107,100,1
+192.168.1.179,Mexico,device_45,user42@example.com,2106,Normal,Firefox,34,10,0
+192.168.1.95,North Korea,device_19,user2@example.com,4799,Unusual,Chrome,76,100,1
+192.168.1.96,North Korea,device_32,user45@example.com,3165,Normal,Chrome,36,60,1
+192.168.1.12,Canada,device_46,user40@example.com,4253,High Frequency,Firefox,99,90,1
+192.168.1.3,Canada,device_16,user48@example.com,4501,Unusual,Firefox,51,100,1
+192.168.1.50,US,device_43,user18@example.com,1164,Unusual,Chrome,43,15,0
+192.168.1.11,Iran,device_50,user24@example.com,2251,Unusual,Safari,75,75,1
+192.168.1.175,Canada,device_13,user20@example.com,1815,High Frequency,Firefox,98,40,0
+192.168.1.69,Iran,device_47,user5@example.com,827,High Frequency,Firefox,18,100,1
+192.168.1.189,US,device_33,user6@example.com,4342,Normal,Safari,64,50,0
+192.168.1.111,Mexico,device_20,user27@example.com,1536,Normal,Firefox,10,60,1
+192.168.1.78,Mexico,device_1,user49@example.com,3544,Unusual,Safari,76,55,0
+192.168.1.10,Canada,device_48,user35@example.com,1969,Normal,Safari,18,100,1
+192.168.1.89,Iran,device_40,user17@example.com,2646,High Frequency,Chrome,109,90,1
+192.168.1.162,US,device_37,user39@example.com,63,Unusual,Chrome,34,20,0
+192.168.1.100,Canada,device_38,user17@example.com,4973,Normal,Firefox,12,95,1
+192.168.1.26,Germany,device_14,user28@example.com,3525,Unusual,Firefox,54,10,0
+192.168.1.194,North Korea,device_1,user17@example.com,3689,Unusual,Firefox,46,80,1
+192.168.1.217,Mexico,device_3,user18@example.com,4019,High Frequency,Safari,89,100,1
+192.168.1.162,Mexico,device_47,user41@example.com,389,Unusual,Safari,67,55,0
+192.168.1.100,Iran,device_19,user19@example.com,2166,Normal,Chrome,104,60,1
+192.168.1.206,US,device_30,user5@example.com,2844,High Frequency,Firefox,80,30,0
+192.168.1.32,Germany,device_25,user11@example.com,505,High Frequency,Firefox,83,40,0
+192.168.1.150,Iran,device_40,user40@example.com,2400,High Frequency,Obsolete Browser,112,100,1
+192.168.1.16,Canada,device_19,user44@example.com,162,Unusual,Obsolete Browser,78,55,0
+192.168.1.180,Iran,device_29,user6@example.com,615,Unusual,Firefox,73,60,1
+192.168.1.84,US,device_1,user47@example.com,4055,Normal,Obsolete Browser,50,100,1
+192.168.1.75,Canada,device_45,user1@example.com,3367,High Frequency,Obsolete Browser,12,100,1
+192.168.1.155,North Korea,device_45,user12@example.com,305,Unusual,Chrome,53,60,1
+192.168.1.108,Mexico,device_45,user19@example.com,1403,Unusual,Safari,87,10,0
+192.168.1.184,Germany,device_49,user40@example.com,3992,Unusual,Safari,93,10,0
+192.168.1.227,North Korea,device_49,user42@example.com,552,High Frequency,Firefox,74,90,1
+192.168.1.73,North Korea,device_21,user32@example.com,3818,Normal,Obsolete Browser,52,100,1
+192.168.1.229,North Korea,device_13,user18@example.com,3012,Normal,Chrome,46,60,1
+192.168.1.39,North Korea,device_38,user41@example.com,1239,Unusual,Firefox,79,60,1
+192.168.1.153,US,device_33,user31@example.com,1206,Unusual,Firefox,23,35,0
+192.168.1.127,Mexico,device_28,user5@example.com,3380,High Frequency,Chrome,77,40,0
+192.168.1.120,Mexico,device_25,user30@example.com,1114,High Frequency,Chrome,90,40,0
+192.168.1.213,Canada,device_46,user30@example.com,3019,Unusual,Obsolete Browser,79,55,0
+192.168.1.152,US,device_3,user32@example.com,4138,Normal,Firefox,63,95,1
+192.168.1.238,Mexico,device_48,user38@example.com,4719,High Frequency,Obsolete Browser,90,100,1
+192.168.1.211,Iran,device_50,user37@example.com,211,High Frequency,Safari,23,100,1
+192.168.1.140,North Korea,device_38,user32@example.com,3166,Unusual,Safari,84,60,1
+192.168.1.8,Mexico,device_48,user1@example.com,3446,Normal,Firefox,15,100,1
+192.168.1.241,US,device_29,user39@example.com,25,High Frequency,Safari,53,55,0
+192.168.1.196,US,device_42,user2@example.com,539,Normal,Safari,73,0,0
+192.168.1.130,North Korea,device_17,user1@example.com,1734,Normal,Obsolete Browser,27,100,1
+192.168.1.67,Mexico,device_2,user44@example.com,3677,High Frequency,Obsolete Browser,116,100,1
+192.168.1.38,Iran,device_4,user27@example.com,1316,Unusual,Safari,87,95,1
+192.168.1.166,Mexico,device_8,user5@example.com,3538,High Frequency,Firefox,71,80,1
+192.168.1.200,Germany,device_50,user17@example.com,2945,Unusual,Safari,102,10,0
+192.168.1.77,Iran,device_29,user47@example.com,1476,Normal,Firefox,28,95,1
+192.168.1.150,Iran,device_13,user37@example.com,4828,High Frequency,Safari,35,100,1
+192.168.1.42,Canada,device_46,user48@example.com,4004,High Frequency,Firefox,107,90,1
+192.168.1.45,Iran,device_20,user11@example.com,640,Unusual,Firefox,84,60,1
+192.168.1.39,North Korea,device_21,user44@example.com,3751,Unusual,Obsolete Browser,19,100,1
+192.168.1.68,Iran,device_36,user49@example.com,467,Normal,Obsolete Browser,47,100,1
+192.168.1.71,Iran,device_20,user32@example.com,1609,Unusual,Firefox,13,100,1
+192.168.1.162,US,device_29,user50@example.com,4801,Normal,Obsolete Browser,34,95,1
+192.168.1.140,Mexico,device_38,user25@example.com,3938,Unusual,Obsolete Browser,115,70,1
+192.168.1.23,US,device_32,user7@example.com,4305,Unusual,Obsolete Browser,52,95,1
+192.168.1.83,North Korea,device_45,user44@example.com,246,Unusual,Obsolete Browser,47,100,1
+192.168.1.170,US,device_10,user17@example.com,231,Normal,Firefox,72,20,0
+192.168.1.72,Canada,device_11,user27@example.com,2066,High Frequency,Safari,95,40,0
+192.168.1.4,US,device_24,user39@example.com,4681,Unusual,Chrome,86,90,1
+192.168.1.253,Mexico,device_40,user37@example.com,3690,High Frequency,Safari,46,40,0
+192.168.1.148,North Korea,device_47,user22@example.com,4157,Normal,Firefox,31,100,1
+192.168.1.79,Mexico,device_23,user37@example.com,3877,Unusual,Firefox,90,10,0
+192.168.1.232,Mexico,device_16,user14@example.com,2378,Normal,Safari,117,10,0
+192.168.1.155,Iran,device_15,user33@example.com,4785,Unusual,Obsolete Browser,81,100,1
+192.168.1.244,North Korea,device_10,user12@example.com,4295,Unusual,Chrome,77,100,1
+192.168.1.60,North Korea,device_23,user35@example.com,2642,High Frequency,Safari,59,90,1
+192.168.1.169,Canada,device_21,user23@example.com,1503,High Frequency,Chrome,10,75,1
+192.168.1.187,US,device_47,user7@example.com,2168,High Frequency,Firefox,80,30,0
+192.168.1.182,Iran,device_22,user15@example.com,2809,Unusual,Safari,60,60,1
+192.168.1.122,Canada,device_10,user27@example.com,1309,High Frequency,Obsolete Browser,81,100,1
+192.168.1.26,Mexico,device_19,user22@example.com,1567,Normal,Obsolete Browser,37,55,0
+192.168.1.51,US,device_32,user21@example.com,3066,Unusual,Firefox,112,0,0
+192.168.1.233,North Korea,device_4,user13@example.com,1861,Unusual,Safari,84,80,1
+192.168.1.114,Mexico,device_21,user21@example.com,724,Unusual,Safari,64,10,0
+192.168.1.141,Mexico,device_29,user21@example.com,4244,Normal,Safari,76,60,1
+192.168.1.201,US,device_41,user33@example.com,2482,Normal,Chrome,96,15,0
+192.168.1.61,Germany,device_30,user45@example.com,4676,Normal,Chrome,97,60,1
+192.168.1.54,Mexico,device_29,user34@example.com,4447,Unusual,Chrome,21,95,1
+192.168.1.188,Germany,device_15,user16@example.com,275,High Frequency,Firefox,115,40,0
+192.168.1.245,Canada,device_33,user14@example.com,1498,High Frequency,Chrome,89,40,0
+192.168.1.115,Mexico,device_10,user12@example.com,3555,High Frequency,Safari,67,60,1
+192.168.1.105,Germany,device_22,user3@example.com,184,High Frequency,Chrome,54,40,0
+192.168.1.199,Iran,device_13,user8@example.com,252,High Frequency,Chrome,40,100,1
+192.168.1.86,North Korea,device_29,user35@example.com,4314,Normal,Obsolete Browser,16,100,1
+192.168.1.144,North Korea,device_28,user9@example.com,3085,Normal,Obsolete Browser,48,100,1
+192.168.1.22,North Korea,device_15,user20@example.com,584,Normal,Chrome,21,95,1
+192.168.1.183,Canada,device_7,user34@example.com,3878,High Frequency,Safari,34,60,1
+192.168.1.102,North Korea,device_17,user45@example.com,4151,Unusual,Safari,78,100,1
+192.168.1.208,Iran,device_17,user24@example.com,4819,Unusual,Obsolete Browser,14,100,1
+192.168.1.238,Germany,device_23,user17@example.com,1040,Normal,Firefox,70,10,0
+192.168.1.207,Iran,device_27,user46@example.com,2734,Normal,Obsolete Browser,21,100,1
+192.168.1.36,Canada,device_36,user7@example.com,936,High Frequency,Chrome,18,75,1
+192.168.1.228,US,device_42,user47@example.com,596,Unusual,Firefox,74,15,0
+192.168.1.17,North Korea,device_34,user19@example.com,4631,High Frequency,Obsolete Browser,57,100,1
+192.168.1.95,US,device_32,user2@example.com,340,High Frequency,Firefox,25,80,1
+192.168.1.102,Germany,device_31,user49@example.com,1920,Unusual,Chrome,33,10,0
+192.168.1.81,Mexico,device_10,user28@example.com,2753,High Frequency,Obsolete Browser,111,100,1
+192.168.1.224,Canada,device_26,user20@example.com,4861,High Frequency,Obsolete Browser,63,100,1
+192.168.1.82,North Korea,device_33,user46@example.com,2608,Normal,Chrome,71,80,1
+192.168.1.23,Canada,device_32,user20@example.com,2240,Unusual,Obsolete Browser,92,55,0
+192.168.1.138,Mexico,device_36,user39@example.com,1369,Unusual,Firefox,80,10,0
+192.168.1.14,US,device_28,user15@example.com,1814,High Frequency,Chrome,48,45,0
+192.168.1.164,Canada,device_17,user12@example.com,1451,High Frequency,Safari,62,40,0
+192.168.1.8,Mexico,device_7,user34@example.com,3842,High Frequency,Chrome,57,100,1
+192.168.1.105,Mexico,device_43,user28@example.com,1577,High Frequency,Safari,113,40,0
+192.168.1.56,North Korea,device_28,user11@example.com,4355,Normal,Firefox,46,100,1
+192.168.1.119,Canada,device_2,user48@example.com,4375,High Frequency,Firefox,116,100,1
+192.168.1.114,Iran,device_34,user24@example.com,992,Normal,Obsolete Browser,106,100,1
+192.168.1.247,Iran,device_25,user17@example.com,2085,Unusual,Chrome,29,95,1
+192.168.1.72,US,device_17,user20@example.com,1521,Unusual,Safari,82,0,0
+192.168.1.243,Mexico,device_8,user37@example.com,3837,High Frequency,Obsolete Browser,81,100,1
+192.168.1.73,Germany,device_12,user33@example.com,4039,High Frequency,Firefox,120,90,1
+192.168.1.190,North Korea,device_4,user15@example.com,113,High Frequency,Safari,34,100,1
+192.168.1.105,Mexico,device_3,user32@example.com,177,High Frequency,Obsolete Browser,21,100,1
+192.168.1.62,Mexico,device_41,user36@example.com,3029,Unusual,Chrome,86,10,0
+192.168.1.174,Germany,device_32,user12@example.com,4245,High Frequency,Firefox,112,90,1
+192.168.1.30,Canada,device_6,user4@example.com,568,Normal,Chrome,106,50,0
+192.168.1.227,Canada,device_41,user33@example.com,761,Normal,Chrome,80,10,0
+192.168.1.51,US,device_27,user45@example.com,3132,High Frequency,Chrome,82,30,0
+192.168.1.52,Iran,device_50,user41@example.com,2964,Normal,Chrome,44,60,1
+192.168.1.168,Mexico,device_20,user8@example.com,4124,Unusual,Safari,97,60,1
+192.168.1.92,North Korea,device_19,user1@example.com,3364,Normal,Chrome,73,75,1
+192.168.1.165,Mexico,device_10,user18@example.com,2088,Normal,Obsolete Browser,39,75,1
+192.168.1.60,Canada,device_30,user24@example.com,2513,Unusual,Chrome,66,10,0
+192.168.1.146,Germany,device_41,user7@example.com,2494,Unusual,Obsolete Browser,27,90,1
+192.168.1.104,Iran,device_38,user5@example.com,1355,Unusual,Safari,120,75,1
+192.168.1.12,US,device_43,user31@example.com,4866,Normal,Obsolete Browser,81,95,1
+192.168.1.184,US,device_30,user28@example.com,66,High Frequency,Obsolete Browser,34,75,1
+192.168.1.203,Mexico,device_26,user6@example.com,4777,Unusual,Obsolete Browser,58,100,1
+192.168.1.25,North Korea,device_35,user48@example.com,2506,High Frequency,Firefox,33,90,1
+192.168.1.236,Mexico,device_28,user18@example.com,4028,Normal,Chrome,38,60,1
+192.168.1.51,Germany,device_48,user43@example.com,3099,Normal,Firefox,14,45,0
+192.168.1.199,US,device_9,user40@example.com,1878,High Frequency,Chrome,90,50,0
+192.168.1.112,North Korea,device_16,user35@example.com,3974,High Frequency,Chrome,83,90,1
+192.168.1.220,US,device_21,user16@example.com,1328,Unusual,Safari,111,0,0
+192.168.1.144,Germany,device_30,user28@example.com,3389,Normal,Safari,68,35,0
+192.168.1.202,North Korea,device_39,user37@example.com,4128,Unusual,Safari,87,100,1
+192.168.1.215,Germany,device_8,user16@example.com,920,Normal,Obsolete Browser,11,100,1
+192.168.1.41,Iran,device_39,user41@example.com,1398,Normal,Obsolete Browser,37,100,1
+192.168.1.90,US,device_6,user5@example.com,3688,Normal,Safari,45,20,0
+192.168.1.105,North Korea,device_11,user33@example.com,1395,Normal,Safari,96,60,1
+192.168.1.65,Canada,device_27,user40@example.com,4884,Normal,Obsolete Browser,68,100,1
+192.168.1.207,Canada,device_23,user37@example.com,3383,Normal,Chrome,28,45,0
+192.168.1.77,US,device_3,user17@example.com,4588,Normal,Safari,111,70,1
+192.168.1.212,North Korea,device_9,user28@example.com,1450,High Frequency,Firefox,85,100,1
+192.168.1.86,Iran,device_17,user35@example.com,4073,Unusual,Chrome,21,100,1
+192.168.1.149,North Korea,device_45,user21@example.com,489,Unusual,Firefox,114,60,1
+192.168.1.214,Germany,device_25,user21@example.com,3107,Unusual,Safari,82,10,0
+192.168.1.25,Mexico,device_22,user27@example.com,2137,High Frequency,Chrome,61,40,0
+192.168.1.85,Canada,device_45,user22@example.com,644,Normal,Obsolete Browser,93,55,0
+192.168.1.154,US,device_33,user7@example.com,1995,Unusual,Firefox,52,15,0
+192.168.1.43,US,device_45,user33@example.com,2017,Normal,Chrome,59,35,0
+192.168.1.144,Mexico,device_45,user28@example.com,2660,Normal,Firefox,80,25,0
+192.168.1.49,North Korea,device_11,user6@example.com,2187,Normal,Safari,104,60,1
+192.168.1.118,Canada,device_45,user26@example.com,1151,Normal,Chrome,22,45,0
+192.168.1.167,Iran,device_37,user34@example.com,3000,Normal,Firefox,99,60,1
+192.168.1.99,Mexico,device_14,user14@example.com,2172,High Frequency,Firefox,51,40,0
+192.168.1.84,US,device_4,user27@example.com,1208,High Frequency,Obsolete Browser,99,95,1
+192.168.1.139,US,device_4,user1@example.com,3734,Normal,Firefox,54,20,0
+192.168.1.15,Iran,device_19,user3@example.com,2258,High Frequency,Obsolete Browser,31,100,1
+192.168.1.59,Iran,device_42,user10@example.com,732,Normal,Obsolete Browser,14,100,1
+192.168.1.96,Germany,device_12,user37@example.com,271,Unusual,Chrome,120,10,0
+192.168.1.41,US,device_30,user23@example.com,3088,Normal,Obsolete Browser,22,80,1
+192.168.1.140,North Korea,device_18,user7@example.com,4391,High Frequency,Safari,32,100,1
+192.168.1.183,North Korea,device_36,user17@example.com,2476,High Frequency,Firefox,44,90,1
+192.168.1.196,Germany,device_13,user27@example.com,3647,Normal,Safari,79,10,0
+192.168.1.59,Canada,device_10,user45@example.com,449,Unusual,Firefox,110,30,0
+192.168.1.196,Germany,device_31,user9@example.com,2622,Unusual,Firefox,75,10,0
+192.168.1.12,North Korea,device_2,user12@example.com,3695,Normal,Chrome,96,80,1
+192.168.1.210,North Korea,device_11,user20@example.com,2793,Normal,Chrome,81,60,1
+192.168.1.36,Iran,device_45,user24@example.com,3750,Unusual,Safari,119,60,1
+192.168.1.249,Mexico,device_14,user1@example.com,2563,Normal,Chrome,22,60,1
+192.168.1.38,US,device_41,user11@example.com,790,High Frequency,Chrome,55,65,1
+192.168.1.70,Mexico,device_7,user23@example.com,2557,Normal,Chrome,18,65,1
+192.168.1.231,Iran,device_29,user38@example.com,4610,Unusual,Safari,103,100,1
+192.168.1.22,Iran,device_12,user26@example.com,1803,Unusual,Obsolete Browser,12,100,1
+192.168.1.245,Canada,device_24,user29@example.com,4060,Unusual,Safari,116,60,1
+192.168.1.134,Iran,device_6,user12@example.com,3371,High Frequency,Firefox,61,100,1
+192.168.1.57,Iran,device_3,user31@example.com,1871,High Frequency,Obsolete Browser,64,100,1
+192.168.1.240,Canada,device_46,user42@example.com,2289,Unusual,Safari,120,10,0
+192.168.1.137,US,device_45,user7@example.com,1604,Normal,Chrome,29,55,0
+192.168.1.221,Canada,device_21,user46@example.com,4870,Unusual,Firefox,18,95,1
+192.168.1.47,US,device_5,user37@example.com,3176,High Frequency,Chrome,105,50,0
+192.168.1.45,US,device_17,user45@example.com,1100,High Frequency,Chrome,93,30,0
+192.168.1.228,US,device_9,user25@example.com,2916,High Frequency,Obsolete Browser,119,95,1
+192.168.1.160,Iran,device_45,user14@example.com,1468,Unusual,Safari,96,75,1
+192.168.1.98,North Korea,device_49,user35@example.com,43,Normal,Chrome,74,60,1
+192.168.1.172,Canada,device_45,user9@example.com,2405,Unusual,Firefox,16,45,0
+192.168.1.133,Mexico,device_8,user2@example.com,1498,Normal,Chrome,33,30,0
+192.168.1.135,Germany,device_43,user41@example.com,911,Unusual,Chrome,44,10,0
+192.168.1.102,Germany,device_23,user2@example.com,4093,High Frequency,Obsolete Browser,27,100,1
+192.168.1.99,Germany,device_8,user47@example.com,4211,Unusual,Obsolete Browser,110,100,1
+192.168.1.218,Iran,device_14,user16@example.com,2415,Unusual,Obsolete Browser,68,100,1
+192.168.1.131,Canada,device_21,user38@example.com,2086,High Frequency,Safari,62,40,0
+192.168.1.56,Canada,device_43,user1@example.com,2371,Unusual,Safari,60,25,0
+192.168.1.123,Iran,device_25,user17@example.com,2580,Unusual,Chrome,22,95,1
+192.168.1.87,Mexico,device_10,user45@example.com,1391,Unusual,Safari,28,65,1
+192.168.1.147,North Korea,device_28,user5@example.com,3829,High Frequency,Firefox,112,90,1
+192.168.1.5,North Korea,device_27,user4@example.com,2930,Normal,Safari,98,100,1
+192.168.1.209,North Korea,device_13,user2@example.com,503,High Frequency,Firefox,48,90,1
+192.168.1.212,Canada,device_48,user15@example.com,2048,Normal,Firefox,55,10,0
+192.168.1.121,North Korea,device_43,user4@example.com,2230,Unusual,Obsolete Browser,118,100,1
+192.168.1.67,US,device_17,user40@example.com,2032,Normal,Obsolete Browser,100,45,0
+192.168.1.52,Germany,device_23,user16@example.com,2602,Unusual,Safari,115,10,0
+192.168.1.26,North Korea,device_12,user19@example.com,1243,Unusual,Chrome,16,95,1
+192.168.1.247,North Korea,device_25,user38@example.com,3771,Normal,Firefox,15,95,1
+192.168.1.7,US,device_13,user8@example.com,4675,High Frequency,Obsolete Browser,38,100,1
+192.168.1.247,Mexico,device_48,user1@example.com,462,High Frequency,Firefox,85,40,0
+192.168.1.154,US,device_45,user12@example.com,4230,High Frequency,Safari,20,100,1
+192.168.1.199,Canada,device_34,user36@example.com,4646,Normal,Obsolete Browser,28,100,1
+192.168.1.7,Iran,device_37,user9@example.com,2328,Normal,Chrome,100,100,1
+192.168.1.101,Germany,device_21,user17@example.com,2971,High Frequency,Firefox,72,40,0
+192.168.1.77,Canada,device_22,user21@example.com,3669,Unusual,Firefox,82,55,0
+192.168.1.182,North Korea,device_35,user14@example.com,4613,Normal,Safari,17,100,1
+192.168.1.179,Iran,device_12,user15@example.com,4884,Unusual,Obsolete Browser,76,100,1
+192.168.1.26,US,device_15,user43@example.com,3106,High Frequency,Safari,118,30,0
+192.168.1.117,Canada,device_37,user22@example.com,3852,Unusual,Obsolete Browser,87,55,0
+192.168.1.215,Mexico,device_19,user1@example.com,1720,High Frequency,Firefox,61,40,0
+192.168.1.55,Mexico,device_30,user34@example.com,3023,Normal,Obsolete Browser,42,55,0
+192.168.1.42,North Korea,device_17,user20@example.com,124,High Frequency,Firefox,17,100,1
+192.168.1.253,Iran,device_25,user41@example.com,3928,Normal,Firefox,97,60,1
+192.168.1.93,Mexico,device_39,user25@example.com,2714,Unusual,Safari,103,10,0
+192.168.1.234,Germany,device_39,user12@example.com,2754,High Frequency,Firefox,73,55,0
+192.168.1.169,Iran,device_34,user35@example.com,1014,High Frequency,Chrome,117,90,1
+192.168.1.198,Iran,device_28,user29@example.com,661,Unusual,Safari,45,60,1
+192.168.1.131,Canada,device_41,user37@example.com,1448,Normal,Obsolete Browser,96,55,0
+192.168.1.200,North Korea,device_13,user37@example.com,3395,Unusual,Chrome,52,60,1
+192.168.1.78,Canada,device_4,user12@example.com,1468,Normal,Firefox,65,30,0
+192.168.1.84,Iran,device_28,user22@example.com,46,High Frequency,Obsolete Browser,106,100,1
+192.168.1.124,Iran,device_8,user11@example.com,4097,Unusual,Firefox,108,100,1
+192.168.1.118,Canada,device_44,user49@example.com,4522,Unusual,Chrome,22,95,1
+192.168.1.85,Canada,device_4,user11@example.com,2427,Unusual,Obsolete Browser,66,90,1
+192.168.1.228,Canada,device_20,user5@example.com,4478,Normal,Obsolete Browser,116,100,1
+192.168.1.202,Canada,device_31,user43@example.com,642,Normal,Obsolete Browser,58,55,0
+192.168.1.37,Iran,device_1,user40@example.com,4163,Unusual,Firefox,34,100,1
+192.168.1.133,US,device_26,user42@example.com,2162,Unusual,Firefox,99,15,0
+192.168.1.97,Iran,device_7,user36@example.com,1187,Unusual,Chrome,17,100,1
+192.168.1.32,US,device_9,user25@example.com,2508,Unusual,Obsolete Browser,50,65,1
+192.168.1.203,Iran,device_3,user49@example.com,3235,Normal,Obsolete Browser,119,100,1
+192.168.1.252,Canada,device_41,user50@example.com,1833,High Frequency,Chrome,86,55,0
+192.168.1.53,Iran,device_23,user19@example.com,2535,Unusual,Firefox,120,60,1
+192.168.1.217,Iran,device_48,user41@example.com,3788,Unusual,Obsolete Browser,95,100,1
+192.168.1.26,Germany,device_37,user38@example.com,1209,High Frequency,Safari,83,40,0
+192.168.1.12,Mexico,device_1,user41@example.com,4618,Normal,Safari,115,80,1
+192.168.1.233,North Korea,device_44,user30@example.com,4643,Normal,Safari,59,100,1
+192.168.1.115,North Korea,device_10,user26@example.com,1831,Normal,Safari,23,100,1
+192.168.1.14,Canada,device_35,user19@example.com,4703,High Frequency,Obsolete Browser,69,100,1
+192.168.1.129,US,device_30,user14@example.com,4731,High Frequency,Safari,64,80,1
+192.168.1.189,US,device_12,user8@example.com,1559,Unusual,Firefox,102,0,0
+192.168.1.228,Iran,device_32,user13@example.com,2997,Unusual,Firefox,55,80,1
+192.168.1.210,Germany,device_7,user26@example.com,4696,Normal,Obsolete Browser,74,100,1
+192.168.1.40,Iran,device_31,user40@example.com,4023,Unusual,Firefox,75,100,1
+192.168.1.100,Iran,device_32,user41@example.com,4372,Unusual,Safari,92,100,1
+192.168.1.211,Mexico,device_20,user4@example.com,1248,High Frequency,Firefox,59,40,0
+192.168.1.215,Germany,device_3,user15@example.com,3053,High Frequency,Chrome,101,60,1
+192.168.1.144,Germany,device_15,user28@example.com,4154,High Frequency,Safari,12,100,1
+192.168.1.123,US,device_16,user23@example.com,4121,High Frequency,Safari,41,80,1
+192.168.1.254,Iran,device_8,user48@example.com,4875,Unusual,Safari,87,100,1
+192.168.1.157,Germany,device_30,user27@example.com,881,Unusual,Firefox,97,10,0
+192.168.1.57,Mexico,device_3,user45@example.com,480,Unusual,Safari,94,30,0
+192.168.1.167,Canada,device_49,user26@example.com,2557,Normal,Obsolete Browser,99,55,0
+192.168.1.82,US,device_48,user19@example.com,1851,Normal,Firefox,84,15,0
+192.168.1.144,Iran,device_30,user28@example.com,2910,Unusual,Firefox,20,95,1
+192.168.1.87,US,device_11,user27@example.com,2501,High Frequency,Safari,117,30,0
+192.168.1.117,Mexico,device_31,user24@example.com,4534,High Frequency,Chrome,50,90,1
+192.168.1.4,North Korea,device_33,user22@example.com,2814,High Frequency,Obsolete Browser,65,100,1
+192.168.1.215,Canada,device_5,user33@example.com,1677,Normal,Chrome,91,30,0
+192.168.1.79,Iran,device_29,user6@example.com,4602,Unusual,Safari,100,100,1
+192.168.1.239,North Korea,device_11,user37@example.com,3152,Normal,Safari,47,60,1
+192.168.1.127,Canada,device_33,user5@example.com,1759,High Frequency,Safari,43,40,0
+192.168.1.178,US,device_36,user41@example.com,2808,Unusual,Obsolete Browser,116,45,0
+192.168.1.129,Iran,device_26,user25@example.com,34,Unusual,Safari,28,100,1
+192.168.1.57,Mexico,device_47,user44@example.com,4604,Normal,Chrome,59,60,1
+192.168.1.159,Canada,device_37,user30@example.com,1664,Normal,Firefox,109,10,0
+192.168.1.88,Germany,device_43,user45@example.com,4522,High Frequency,Obsolete Browser,95,100,1
+192.168.1.132,North Korea,device_22,user2@example.com,295,Unusual,Firefox,104,60,1
+192.168.1.163,US,device_13,user41@example.com,4694,Normal,Firefox,99,50,0
+192.168.1.183,Canada,device_12,user38@example.com,1155,Normal,Obsolete Browser,115,55,0
+192.168.1.51,Iran,device_5,user38@example.com,3486,Normal,Firefox,62,80,1
+192.168.1.206,North Korea,device_17,user7@example.com,4956,Normal,Obsolete Browser,69,100,1
+192.168.1.17,North Korea,device_44,user5@example.com,1538,Unusual,Firefox,118,85,1
+192.168.1.26,North Korea,device_21,user3@example.com,940,High Frequency,Obsolete Browser,117,100,1
+192.168.1.17,North Korea,device_14,user35@example.com,843,Normal,Obsolete Browser,97,100,1
+192.168.1.114,Germany,device_9,user31@example.com,4778,Unusual,Safari,71,80,1
+192.168.1.182,North Korea,device_39,user15@example.com,10,High Frequency,Chrome,88,100,1
+192.168.1.135,US,device_47,user31@example.com,3396,Unusual,Obsolete Browser,114,45,0
+192.168.1.160,North Korea,device_26,user11@example.com,2268,High Frequency,Safari,105,90,1
+192.168.1.153,Germany,device_39,user15@example.com,1197,High Frequency,Firefox,41,40,0
+192.168.1.82,US,device_50,user33@example.com,3074,Normal,Chrome,13,35,0
+192.168.1.250,Iran,device_46,user33@example.com,1644,Normal,Firefox,41,60,1
+192.168.1.124,Iran,device_45,user29@example.com,3501,High Frequency,Chrome,28,100,1
+192.168.1.154,US,device_11,user37@example.com,2320,Unusual,Obsolete Browser,103,65,1
+192.168.1.150,North Korea,device_43,user19@example.com,2076,Normal,Safari,100,60,1
+192.168.1.112,North Korea,device_17,user21@example.com,663,Unusual,Firefox,99,60,1
+192.168.1.113,Germany,device_6,user33@example.com,959,Normal,Chrome,77,30,0
+192.168.1.217,Iran,device_8,user19@example.com,966,High Frequency,Firefox,26,100,1
+192.168.1.67,Iran,device_32,user36@example.com,3894,Unusual,Obsolete Browser,25,100,1
+192.168.1.233,Germany,device_18,user4@example.com,3091,High Frequency,Safari,64,40,0
+192.168.1.204,US,device_17,user37@example.com,117,Normal,Safari,95,0,0
+192.168.1.226,Germany,device_10,user16@example.com,3184,Unusual,Safari,118,30,0
+192.168.1.32,Canada,device_2,user31@example.com,1036,High Frequency,Obsolete Browser,28,100,1
+192.168.1.32,Canada,device_47,user14@example.com,3818,Unusual,Firefox,25,45,0
+192.168.1.47,Canada,device_10,user29@example.com,2976,Normal,Safari,119,30,0
+192.168.1.254,Iran,device_10,user34@example.com,3319,Unusual,Chrome,51,80,1
+192.168.1.227,Iran,device_41,user36@example.com,921,Normal,Obsolete Browser,15,100,1
+192.168.1.239,US,device_2,user5@example.com,2449,Unusual,Obsolete Browser,81,65,1
+192.168.1.203,Canada,device_48,user37@example.com,2794,High Frequency,Chrome,63,40,0
+192.168.1.53,Canada,device_36,user38@example.com,2244,Normal,Safari,107,10,0
+192.168.1.223,Germany,device_18,user9@example.com,4665,Unusual,Safari,19,95,1
+192.168.1.163,Canada,device_50,user41@example.com,3953,High Frequency,Safari,50,40,0
+192.168.1.170,US,device_28,user3@example.com,4486,High Frequency,Chrome,116,80,1
+192.168.1.169,Canada,device_24,user9@example.com,1784,Unusual,Chrome,110,10,0
+192.168.1.17,Canada,device_10,user28@example.com,3630,Normal,Firefox,90,45,0
+192.168.1.96,Iran,device_34,user40@example.com,514,High Frequency,Safari,66,90,1
+192.168.1.48,North Korea,device_35,user33@example.com,1478,Normal,Firefox,15,95,1
+192.168.1.107,Germany,device_22,user45@example.com,765,Unusual,Firefox,32,10,0
+192.168.1.152,US,device_49,user2@example.com,208,Normal,Firefox,58,0,0
+192.168.1.8,Mexico,device_32,user29@example.com,3156,Normal,Safari,37,50,0
+192.168.1.148,Canada,device_31,user19@example.com,3232,Normal,Chrome,22,45,0
+192.168.1.110,Germany,device_5,user13@example.com,100,Unusual,Chrome,64,30,0
+192.168.1.153,North Korea,device_31,user16@example.com,4015,High Frequency,Safari,26,100,1
+192.168.1.194,Iran,device_23,user40@example.com,2957,High Frequency,Firefox,68,100,1
+192.168.1.28,Germany,device_24,user30@example.com,2046,Normal,Obsolete Browser,97,55,0
+192.168.1.126,Iran,device_12,user19@example.com,2901,High Frequency,Chrome,59,100,1
+192.168.1.168,North Korea,device_40,user13@example.com,376,Normal,Obsolete Browser,104,100,1
+192.168.1.205,Mexico,device_21,user15@example.com,786,High Frequency,Safari,32,55,0
+192.168.1.62,Germany,device_23,user33@example.com,2526,Unusual,Safari,39,10,0
+192.168.1.155,North Korea,device_32,user50@example.com,490,Normal,Safari,80,60,1
+192.168.1.107,North Korea,device_28,user39@example.com,2313,High Frequency,Chrome,74,100,1
+192.168.1.38,North Korea,device_27,user43@example.com,1561,High Frequency,Safari,18,100,1
+192.168.1.184,Canada,device_23,user7@example.com,2384,Normal,Obsolete Browser,48,55,0
+192.168.1.98,Germany,device_37,user26@example.com,665,High Frequency,Obsolete Browser,15,100,1
+192.168.1.26,Mexico,device_31,user41@example.com,2053,Normal,Safari,41,10,0
+192.168.1.37,North Korea,device_7,user49@example.com,1897,High Frequency,Chrome,117,100,1
+192.168.1.95,Mexico,device_40,user47@example.com,1596,Normal,Obsolete Browser,27,100,1
+192.168.1.194,Germany,device_44,user25@example.com,3148,Unusual,Safari,74,10,0
+192.168.1.69,Canada,device_25,user24@example.com,2928,High Frequency,Firefox,78,65,1
+192.168.1.92,Canada,device_26,user6@example.com,2826,Unusual,Chrome,26,45,0
+192.168.1.34,Mexico,device_16,user43@example.com,4457,High Frequency,Safari,14,100,1
+192.168.1.247,US,device_42,user30@example.com,4962,High Frequency,Chrome,13,100,1
+192.168.1.94,Mexico,device_29,user19@example.com,3904,Unusual,Firefox,58,10,0
+192.168.1.53,Mexico,device_43,user2@example.com,2541,High Frequency,Chrome,107,40,0
+192.168.1.148,Germany,device_49,user18@example.com,615,Unusual,Obsolete Browser,73,70,1
+192.168.1.154,Germany,device_24,user28@example.com,2945,High Frequency,Firefox,30,40,0
+192.168.1.55,Canada,device_2,user8@example.com,1223,Normal,Safari,21,65,1
+192.168.1.155,Mexico,device_18,user1@example.com,2457,Unusual,Chrome,65,25,0
+192.168.1.243,Mexico,device_36,user24@example.com,293,Normal,Obsolete Browser,108,55,0
+192.168.1.194,Mexico,device_22,user18@example.com,1700,High Frequency,Safari,37,40,0
+192.168.1.25,Iran,device_3,user36@example.com,3250,Normal,Chrome,112,80,1
+192.168.1.194,North Korea,device_46,user16@example.com,4486,Unusual,Chrome,30,100,1
+192.168.1.96,Iran,device_43,user13@example.com,3284,High Frequency,Obsolete Browser,108,100,1
+192.168.1.126,Iran,device_32,user41@example.com,1493,Unusual,Obsolete Browser,34,100,1
+192.168.1.83,US,device_15,user34@example.com,4034,High Frequency,Firefox,60,80,1
+192.168.1.67,US,device_1,user30@example.com,207,Unusual,Safari,70,20,0
+192.168.1.154,US,device_8,user27@example.com,264,High Frequency,Obsolete Browser,102,95,1
+192.168.1.157,Germany,device_49,user34@example.com,3991,Normal,Obsolete Browser,25,90,1
+192.168.1.84,Germany,device_17,user15@example.com,3795,Unusual,Safari,31,10,0
+192.168.1.224,Mexico,device_37,user12@example.com,3520,Unusual,Obsolete Browser,50,55,0
+192.168.1.125,US,device_37,user22@example.com,3047,Unusual,Obsolete Browser,75,45,0
+192.168.1.98,Germany,device_21,user39@example.com,4141,Unusual,Chrome,50,80,1
+192.168.1.72,US,device_26,user31@example.com,4964,Unusual,Safari,72,50,0
+192.168.1.48,Mexico,device_24,user14@example.com,4652,High Frequency,Obsolete Browser,120,100,1
+192.168.1.150,Germany,device_41,user21@example.com,3507,High Frequency,Chrome,71,65,1
+192.168.1.59,Iran,device_8,user40@example.com,4121,Unusual,Chrome,54,100,1
+192.168.1.5,Iran,device_38,user28@example.com,2350,Normal,Safari,33,100,1
+192.168.1.111,North Korea,device_5,user45@example.com,2360,Normal,Firefox,26,100,1
+192.168.1.188,Germany,device_10,user34@example.com,4853,Unusual,Obsolete Browser,83,100,1
+192.168.1.197,US,device_41,user30@example.com,3212,Unusual,Firefox,78,0,0
+192.168.1.118,North Korea,device_13,user38@example.com,2029,Unusual,Safari,89,75,1
+192.168.1.247,Canada,device_23,user44@example.com,1109,Normal,Safari,77,10,0
+192.168.1.86,US,device_21,user15@example.com,1872,Normal,Chrome,34,0,0
+192.168.1.88,US,device_43,user33@example.com,4919,Normal,Safari,116,50,0
+192.168.1.213,US,device_18,user36@example.com,2371,High Frequency,Safari,89,30,0
+192.168.1.172,Canada,device_47,user10@example.com,3229,Normal,Obsolete Browser,18,100,1
+192.168.1.245,North Korea,device_23,user46@example.com,56,Normal,Chrome,60,60,1
+192.168.1.170,US,device_32,user16@example.com,805,Unusual,Firefox,69,0,0
+192.168.1.158,Iran,device_26,user9@example.com,4152,Normal,Firefox,67,100,1
+192.168.1.249,Iran,device_49,user49@example.com,2622,High Frequency,Obsolete Browser,42,100,1
+192.168.1.94,Mexico,device_8,user5@example.com,1160,Normal,Safari,39,30,0
+192.168.1.5,Mexico,device_49,user48@example.com,2790,Normal,Obsolete Browser,55,95,1
+192.168.1.184,Mexico,device_16,user14@example.com,4295,Normal,Obsolete Browser,43,100,1
+192.168.1.88,Canada,device_40,user24@example.com,2141,High Frequency,Chrome,54,40,0
+192.168.1.111,Mexico,device_49,user29@example.com,4367,Unusual,Firefox,104,60,1
+192.168.1.15,US,device_39,user30@example.com,3618,High Frequency,Chrome,55,30,0
+192.168.1.75,Iran,device_18,user2@example.com,2253,High Frequency,Firefox,64,90,1
+192.168.1.170,Germany,device_19,user45@example.com,3401,Unusual,Safari,74,10,0
+192.168.1.229,North Korea,device_29,user3@example.com,2000,Unusual,Firefox,53,60,1
+192.168.1.80,Iran,device_42,user14@example.com,1442,Unusual,Chrome,84,60,1
+192.168.1.104,Canada,device_45,user27@example.com,3198,Unusual,Safari,115,10,0
+192.168.1.95,Iran,device_35,user29@example.com,1189,Normal,Firefox,92,60,1
+192.168.1.197,Germany,device_13,user24@example.com,3246,Normal,Firefox,104,10,0
+192.168.1.99,Mexico,device_3,user45@example.com,2411,Normal,Safari,25,65,1
+192.168.1.91,North Korea,device_2,user33@example.com,3350,Unusual,Firefox,109,100,1
+192.168.1.141,Germany,device_49,user8@example.com,3223,Unusual,Obsolete Browser,98,55,0
+192.168.1.6,US,device_23,user32@example.com,2867,Unusual,Obsolete Browser,118,85,1
+192.168.1.241,Canada,device_11,user4@example.com,4652,Normal,Obsolete Browser,53,100,1
+192.168.1.223,US,device_10,user31@example.com,2419,Normal,Firefox,106,35,0
+192.168.1.144,Germany,device_29,user24@example.com,653,High Frequency,Chrome,55,40,0
+192.168.1.150,Iran,device_5,user24@example.com,3751,Unusual,Obsolete Browser,112,100,1
+192.168.1.126,Germany,device_17,user47@example.com,4571,Unusual,Safari,27,95,1
+192.168.1.13,Mexico,device_33,user39@example.com,3226,Unusual,Obsolete Browser,32,55,0
+192.168.1.147,Germany,device_13,user11@example.com,2397,High Frequency,Chrome,60,40,0
+192.168.1.216,Iran,device_27,user21@example.com,3365,Normal,Chrome,46,60,1
+192.168.1.248,North Korea,device_41,user9@example.com,1120,Unusual,Safari,46,80,1
+192.168.1.15,Canada,device_33,user41@example.com,1439,High Frequency,Firefox,107,40,0
+192.168.1.97,Mexico,device_17,user26@example.com,4537,Unusual,Safari,62,60,1
+192.168.1.179,Germany,device_8,user22@example.com,4514,Unusual,Safari,18,100,1
+192.168.1.60,North Korea,device_24,user45@example.com,168,Normal,Firefox,41,60,1
+192.168.1.158,Germany,device_36,user13@example.com,2054,Normal,Obsolete Browser,22,90,1
+192.168.1.166,Mexico,device_27,user39@example.com,2437,Unusual,Safari,30,35,0
+192.168.1.203,Iran,device_26,user27@example.com,2714,Normal,Safari,80,60,1
+192.168.1.132,US,device_8,user5@example.com,2474,High Frequency,Safari,77,50,0
+192.168.1.229,Mexico,device_29,user6@example.com,3634,Unusual,Firefox,83,10,0
+192.168.1.89,Iran,device_39,user38@example.com,2713,Unusual,Chrome,115,75,1
+192.168.1.114,Canada,device_22,user24@example.com,1510,High Frequency,Safari,82,40,0
+192.168.1.174,Germany,device_47,user49@example.com,4869,Unusual,Firefox,50,60,1
+192.168.1.154,Germany,device_40,user5@example.com,3214,Unusual,Obsolete Browser,10,90,1
+192.168.1.75,Canada,device_41,user14@example.com,160,Unusual,Safari,23,45,0
+192.168.1.252,Iran,device_9,user27@example.com,2970,Unusual,Safari,75,80,1
+192.168.1.36,Mexico,device_17,user46@example.com,3755,Normal,Firefox,70,10,0
+192.168.1.160,Germany,device_30,user46@example.com,4652,High Frequency,Safari,95,100,1
+192.168.1.49,Iran,device_15,user12@example.com,1274,Unusual,Safari,56,60,1
+192.168.1.113,Iran,device_22,user12@example.com,4635,High Frequency,Chrome,109,100,1
+192.168.1.25,Mexico,device_36,user8@example.com,4551,High Frequency,Firefox,23,100,1
+192.168.1.155,Canada,device_36,user28@example.com,3931,High Frequency,Obsolete Browser,51,85,1
+192.168.1.204,Iran,device_47,user3@example.com,3717,High Frequency,Obsolete Browser,50,100,1
+192.168.1.233,US,device_25,user39@example.com,1350,High Frequency,Chrome,101,30,0
+192.168.1.204,Iran,device_26,user21@example.com,3299,Normal,Firefox,100,60,1
+192.168.1.192,Mexico,device_13,user38@example.com,608,Normal,Chrome,84,10,0
+192.168.1.220,North Korea,device_19,user36@example.com,671,High Frequency,Safari,54,100,1
+192.168.1.107,Germany,device_48,user6@example.com,417,High Frequency,Obsolete Browser,47,85,1
+192.168.1.162,US,device_49,user5@example.com,928,High Frequency,Chrome,27,65,1
+192.168.1.134,Canada,device_48,user39@example.com,2130,Unusual,Chrome,22,45,0
+192.168.1.119,Iran,device_23,user29@example.com,2729,High Frequency,Safari,91,90,1
+192.168.1.241,US,device_13,user47@example.com,3048,Normal,Obsolete Browser,20,100,1
+192.168.1.191,North Korea,device_6,user19@example.com,3579,Unusual,Chrome,117,80,1
+192.168.1.209,North Korea,device_21,user3@example.com,875,Normal,Firefox,110,60,1
+192.168.1.14,US,device_48,user17@example.com,1428,Normal,Safari,23,35,0
+192.168.1.138,Iran,device_5,user36@example.com,2223,Normal,Chrome,72,80,1
+192.168.1.174,Iran,device_23,user9@example.com,4932,High Frequency,Obsolete Browser,91,100,1
+192.168.1.107,Iran,device_17,user20@example.com,3135,Normal,Chrome,47,75,1
+192.168.1.204,Germany,device_31,user8@example.com,2341,Normal,Obsolete Browser,93,55,0
+192.168.1.29,Mexico,device_22,user43@example.com,4070,High Frequency,Safari,10,100,1
+192.168.1.14,Germany,device_48,user6@example.com,1210,High Frequency,Obsolete Browser,71,85,1
+192.168.1.247,North Korea,device_27,user2@example.com,4711,High Frequency,Chrome,74,100,1
+192.168.1.237,Mexico,device_43,user47@example.com,3239,Normal,Chrome,56,10,0
+192.168.1.65,US,device_50,user30@example.com,2964,Normal,Safari,92,0,0
+192.168.1.197,Mexico,device_41,user23@example.com,158,Unusual,Obsolete Browser,79,55,0
+192.168.1.228,Iran,device_48,user19@example.com,4813,Unusual,Safari,53,100,1
+192.168.1.170,Germany,device_26,user31@example.com,1910,Normal,Obsolete Browser,52,55,0
+192.168.1.255,Germany,device_4,user1@example.com,4198,High Frequency,Safari,69,100,1
+192.168.1.123,US,device_23,user25@example.com,171,High Frequency,Firefox,19,65,1
+192.168.1.113,North Korea,device_5,user13@example.com,1873,Normal,Safari,44,80,1
+192.168.1.31,US,device_16,user48@example.com,3800,Normal,Firefox,109,0,0
+192.168.1.226,Mexico,device_18,user45@example.com,3784,High Frequency,Safari,66,40,0
+192.168.1.67,US,device_41,user32@example.com,1772,High Frequency,Obsolete Browser,92,75,1
+192.168.1.47,Germany,device_38,user45@example.com,1864,Unusual,Safari,40,10,0
+192.168.1.59,Canada,device_30,user42@example.com,2992,Unusual,Obsolete Browser,95,55,0
+192.168.1.18,US,device_3,user28@example.com,3878,Normal,Firefox,54,35,0
+192.168.1.92,Canada,device_25,user32@example.com,439,Unusual,Firefox,14,60,1
+192.168.1.118,Mexico,device_49,user5@example.com,1457,Unusual,Obsolete Browser,92,70,1
+192.168.1.27,Mexico,device_32,user7@example.com,3490,Normal,Firefox,61,10,0
+192.168.1.164,US,device_7,user12@example.com,13,High Frequency,Firefox,114,50,0
+192.168.1.136,Germany,device_50,user20@example.com,3580,Unusual,Chrome,59,10,0
+192.168.1.157,Mexico,device_25,user46@example.com,4684,Normal,Chrome,80,60,1
+192.168.1.148,US,device_42,user18@example.com,3366,High Frequency,Firefox,85,55,0
+192.168.1.225,US,device_7,user41@example.com,2332,Normal,Safari,64,20,0
+192.168.1.54,Germany,device_30,user12@example.com,4347,Normal,Firefox,73,60,1
+192.168.1.203,Iran,device_35,user31@example.com,312,Normal,Obsolete Browser,57,100,1
+192.168.1.198,US,device_39,user35@example.com,3667,High Frequency,Obsolete Browser,64,75,1
+192.168.1.3,Iran,device_12,user14@example.com,1182,Normal,Firefox,58,100,1
+192.168.1.177,Germany,device_33,user12@example.com,1478,Unusual,Obsolete Browser,69,55,0
+192.168.1.203,Germany,device_21,user16@example.com,1341,High Frequency,Firefox,92,40,0
+192.168.1.160,Canada,device_49,user7@example.com,763,Normal,Chrome,44,10,0
+192.168.1.250,North Korea,device_46,user28@example.com,3723,Normal,Obsolete Browser,10,100,1
+192.168.1.107,Mexico,device_20,user20@example.com,3304,High Frequency,Chrome,21,75,1
+192.168.1.76,Mexico,device_1,user35@example.com,1929,Unusual,Chrome,57,30,0
+192.168.1.39,Canada,device_5,user41@example.com,2576,Unusual,Obsolete Browser,15,100,1
+192.168.1.209,US,device_19,user6@example.com,4587,Normal,Obsolete Browser,24,100,1
+192.168.1.223,North Korea,device_42,user34@example.com,2327,Normal,Safari,88,60,1
+192.168.1.82,US,device_47,user31@example.com,4503,High Frequency,Obsolete Browser,114,100,1
+192.168.1.34,Germany,device_50,user11@example.com,2380,Unusual,Safari,105,10,0
+192.168.1.219,Canada,device_4,user22@example.com,3503,Normal,Firefox,17,65,1
+192.168.1.100,Mexico,device_18,user38@example.com,1925,High Frequency,Chrome,39,60,1
+192.168.1.131,North Korea,device_42,user14@example.com,2434,High Frequency,Safari,46,90,1
+192.168.1.104,Canada,device_7,user20@example.com,3215,High Frequency,Chrome,35,60,1
+192.168.1.23,US,device_23,user36@example.com,893,Normal,Firefox,16,35,0
+192.168.1.228,North Korea,device_15,user9@example.com,3241,Normal,Safari,32,80,1
+192.168.1.77,US,device_8,user40@example.com,4274,Normal,Firefox,30,70,1
+192.168.1.59,Germany,device_45,user23@example.com,1362,High Frequency,Firefox,30,60,1
+192.168.1.43,Canada,device_38,user10@example.com,1704,Unusual,Obsolete Browser,93,55,0
+192.168.1.197,North Korea,device_8,user20@example.com,3814,High Frequency,Firefox,50,100,1
+192.168.1.166,US,device_49,user13@example.com,1903,Normal,Firefox,108,0,0
+192.168.1.29,US,device_26,user22@example.com,4540,Normal,Firefox,108,50,0
+192.168.1.154,Iran,device_22,user35@example.com,3277,High Frequency,Chrome,35,90,1
+192.168.1.132,North Korea,device_12,user11@example.com,2435,Unusual,Safari,89,60,1
+192.168.1.225,Iran,device_29,user34@example.com,1716,High Frequency,Safari,105,90,1
+192.168.1.79,Iran,device_22,user15@example.com,4367,Normal,Chrome,58,100,1
+192.168.1.154,Canada,device_33,user28@example.com,1336,Normal,Firefox,72,10,0
+192.168.1.193,North Korea,device_3,user6@example.com,4621,High Frequency,Obsolete Browser,28,100,1
+192.168.1.239,US,device_39,user16@example.com,1043,Normal,Firefox,54,0,0
+192.168.1.59,Mexico,device_15,user32@example.com,591,High Frequency,Safari,13,100,1
+192.168.1.101,US,device_27,user1@example.com,1246,High Frequency,Safari,95,30,0
+192.168.1.242,Canada,device_14,user39@example.com,3827,Normal,Chrome,19,60,1
+192.168.1.95,Canada,device_24,user25@example.com,3220,Normal,Chrome,96,25,0
+192.168.1.219,Mexico,device_21,user3@example.com,1598,High Frequency,Safari,102,65,1
+192.168.1.144,Germany,device_3,user47@example.com,4707,High Frequency,Chrome,118,100,1
+192.168.1.77,Mexico,device_10,user22@example.com,555,High Frequency,Firefox,54,60,1
+192.168.1.44,Canada,device_37,user35@example.com,2558,Unusual,Chrome,89,10,0
+192.168.1.148,Germany,device_23,user9@example.com,4392,Normal,Safari,18,95,1
+192.168.1.178,Iran,device_3,user8@example.com,4925,High Frequency,Chrome,79,100,1
+192.168.1.26,Germany,device_11,user19@example.com,844,Unusual,Obsolete Browser,24,90,1
+192.168.1.222,Iran,device_26,user23@example.com,112,Normal,Obsolete Browser,68,100,1
+192.168.1.171,US,device_28,user41@example.com,2820,High Frequency,Firefox,81,30,0
+192.168.1.141,Canada,device_15,user50@example.com,405,Unusual,Obsolete Browser,94,55,0
+192.168.1.5,Canada,device_14,user19@example.com,107,High Frequency,Firefox,53,80,1
+192.168.1.226,US,device_47,user35@example.com,3200,High Frequency,Safari,17,65,1
+192.168.1.54,North Korea,device_5,user44@example.com,308,Unusual,Firefox,33,80,1
+192.168.1.124,Mexico,device_18,user41@example.com,2248,Normal,Firefox,37,10,0
+192.168.1.47,Canada,device_42,user12@example.com,4491,High Frequency,Obsolete Browser,12,100,1
+192.168.1.223,Canada,device_13,user45@example.com,1102,High Frequency,Safari,97,40,0
+192.168.1.159,Mexico,device_48,user4@example.com,3232,Normal,Firefox,64,10,0
+192.168.1.225,Germany,device_7,user17@example.com,364,High Frequency,Obsolete Browser,95,100,1
+192.168.1.22,North Korea,device_34,user9@example.com,898,Unusual,Firefox,64,80,1
+192.168.1.189,US,device_29,user19@example.com,3641,High Frequency,Safari,53,30,0
+192.168.1.182,Canada,device_17,user13@example.com,3547,Unusual,Firefox,88,10,0
+192.168.1.52,Mexico,device_11,user2@example.com,3599,High Frequency,Chrome,13,75,1
+192.168.1.51,US,device_7,user41@example.com,3587,Unusual,Safari,78,35,0
+192.168.1.36,Iran,device_47,user48@example.com,648,High Frequency,Safari,10,100,1
+192.168.1.175,Mexico,device_46,user28@example.com,3988,Normal,Firefox,81,10,0
+192.168.1.102,Mexico,device_48,user1@example.com,500,High Frequency,Firefox,63,40,0
+192.168.1.155,US,device_8,user28@example.com,2677,Normal,Obsolete Browser,113,65,1
+192.168.1.187,Canada,device_12,user7@example.com,1215,High Frequency,Safari,85,40,0
+192.168.1.1,North Korea,device_21,user44@example.com,2643,High Frequency,Chrome,29,100,1
+192.168.1.130,North Korea,device_22,user39@example.com,1719,Normal,Firefox,90,60,1
+192.168.1.159,Germany,device_22,user33@example.com,3598,Unusual,Firefox,52,10,0
+192.168.1.163,North Korea,device_29,user26@example.com,1482,High Frequency,Firefox,103,90,1
+192.168.1.130,Germany,device_7,user44@example.com,1268,Unusual,Firefox,47,30,0
+192.168.1.119,Germany,device_21,user14@example.com,1541,High Frequency,Safari,53,40,0
+192.168.1.148,North Korea,device_50,user24@example.com,1527,Normal,Chrome,39,60,1
+192.168.1.224,Mexico,device_36,user33@example.com,3147,Normal,Chrome,68,10,0
+192.168.1.195,Germany,device_48,user34@example.com,276,Unusual,Safari,11,45,0
+192.168.1.64,Germany,device_40,user30@example.com,848,Normal,Firefox,40,35,0
+192.168.1.53,Iran,device_41,user47@example.com,514,Normal,Chrome,69,60,1
+192.168.1.185,US,device_10,user5@example.com,4083,Unusual,Firefox,95,70,1
+192.168.1.179,Canada,device_2,user5@example.com,3422,Unusual,Chrome,84,50,0
+192.168.1.84,Germany,device_7,user16@example.com,1294,High Frequency,Safari,111,85,1
+192.168.1.66,North Korea,device_1,user9@example.com,4213,High Frequency,Safari,84,100,1
+192.168.1.217,Germany,device_26,user3@example.com,3351,Unusual,Chrome,88,10,0
+192.168.1.234,North Korea,device_11,user4@example.com,2177,High Frequency,Chrome,81,100,1
+192.168.1.78,Canada,device_19,user41@example.com,3877,Unusual,Chrome,45,35,0
+192.168.1.98,Germany,device_35,user12@example.com,483,Unusual,Obsolete Browser,85,55,0
+192.168.1.80,Mexico,device_24,user37@example.com,458,Normal,Obsolete Browser,29,90,1
+192.168.1.237,Germany,device_4,user21@example.com,3597,High Frequency,Obsolete Browser,94,100,1
+192.168.1.124,US,device_31,user4@example.com,3535,Unusual,Obsolete Browser,21,80,1
+192.168.1.109,North Korea,device_15,user19@example.com,1196,High Frequency,Safari,73,100,1
+192.168.1.201,North Korea,device_6,user9@example.com,4316,High Frequency,Firefox,62,100,1
+192.168.1.59,Iran,device_7,user39@example.com,4276,Unusual,Obsolete Browser,108,100,1
+192.168.1.39,Germany,device_17,user38@example.com,3452,High Frequency,Safari,37,40,0
+192.168.1.163,Iran,device_28,user42@example.com,3345,High Frequency,Firefox,40,90,1
+192.168.1.96,Canada,device_43,user37@example.com,2352,High Frequency,Safari,72,40,0
+192.168.1.56,Germany,device_28,user42@example.com,807,High Frequency,Firefox,69,40,0
+192.168.1.212,Germany,device_44,user41@example.com,4732,Unusual,Obsolete Browser,120,100,1
+192.168.1.36,US,device_42,user38@example.com,2766,Normal,Chrome,17,35,0
+192.168.1.223,US,device_47,user5@example.com,4980,Unusual,Chrome,41,75,1
+192.168.1.90,Canada,device_10,user15@example.com,3788,High Frequency,Chrome,57,60,1
+192.168.1.45,Germany,device_46,user6@example.com,245,High Frequency,Obsolete Browser,78,85,1
+192.168.1.64,North Korea,device_36,user5@example.com,2271,Unusual,Chrome,90,60,1
+192.168.1.8,Iran,device_43,user26@example.com,2197,Unusual,Obsolete Browser,65,100,1
+192.168.1.149,Iran,device_17,user18@example.com,2512,Normal,Chrome,24,95,1
+192.168.1.55,Mexico,device_16,user14@example.com,95,Normal,Obsolete Browser,66,55,0
+192.168.1.241,Germany,device_45,user21@example.com,2127,Normal,Safari,12,45,0
+192.168.1.133,Germany,device_6,user1@example.com,696,Normal,Safari,51,30,0
+192.168.1.94,Iran,device_5,user16@example.com,3461,Normal,Obsolete Browser,20,100,1
+192.168.1.132,Canada,device_16,user42@example.com,3706,Unusual,Obsolete Browser,68,75,1
+192.168.1.186,Iran,device_33,user1@example.com,4191,Normal,Firefox,36,100,1
+192.168.1.100,Mexico,device_41,user22@example.com,903,Unusual,Safari,64,10,0
+192.168.1.21,US,device_21,user9@example.com,4933,Normal,Safari,36,50,0
+192.168.1.236,North Korea,device_26,user20@example.com,261,Normal,Obsolete Browser,33,100,1
+192.168.1.173,Iran,device_14,user2@example.com,2615,High Frequency,Obsolete Browser,51,100,1
+192.168.1.255,Mexico,device_21,user4@example.com,3692,High Frequency,Firefox,14,75,1
+192.168.1.157,Iran,device_16,user39@example.com,3227,Unusual,Safari,77,60,1
+192.168.1.118,Mexico,device_41,user5@example.com,2976,Unusual,Safari,46,35,0
+192.168.1.63,Canada,device_1,user24@example.com,3900,Unusual,Chrome,69,55,0
+192.168.1.232,North Korea,device_35,user25@example.com,2138,Normal,Obsolete Browser,33,100,1
+192.168.1.87,North Korea,device_44,user27@example.com,3104,Normal,Obsolete Browser,69,100,1
+192.168.1.150,Iran,device_48,user2@example.com,4219,Unusual,Obsolete Browser,64,100,1
+192.168.1.215,US,device_19,user8@example.com,4806,Normal,Chrome,78,50,0
+192.168.1.11,US,device_10,user45@example.com,1875,High Frequency,Obsolete Browser,53,95,1
+192.168.1.188,North Korea,device_32,user22@example.com,1666,Unusual,Chrome,39,60,1
+192.168.1.131,North Korea,device_3,user37@example.com,259,Unusual,Safari,72,80,1
+192.168.1.179,Canada,device_39,user22@example.com,2998,Unusual,Obsolete Browser,39,55,0
+192.168.1.26,North Korea,device_50,user42@example.com,1801,High Frequency,Safari,83,90,1
+192.168.1.10,Mexico,device_8,user33@example.com,2760,High Frequency,Safari,102,100,1
+192.168.1.242,Canada,device_44,user9@example.com,2901,Unusual,Safari,27,45,0
+192.168.1.43,Canada,device_29,user16@example.com,1649,Unusual,Safari,105,50,0
+192.168.1.145,Germany,device_26,user18@example.com,3621,Normal,Safari,55,10,0
+192.168.1.223,North Korea,device_40,user3@example.com,2813,Normal,Chrome,16,95,1
+192.168.1.14,Canada,device_35,user24@example.com,512,Normal,Chrome,105,10,0
+192.168.1.177,Iran,device_14,user11@example.com,1776,Unusual,Obsolete Browser,59,100,1
+192.168.1.109,North Korea,device_37,user43@example.com,592,High Frequency,Firefox,28,100,1
+192.168.1.214,Canada,device_30,user12@example.com,707,Normal,Safari,28,45,0
+192.168.1.190,Germany,device_4,user21@example.com,4539,High Frequency,Obsolete Browser,76,100,1
+192.168.1.10,Canada,device_17,user13@example.com,443,Normal,Safari,112,50,0
+192.168.1.78,US,device_18,user36@example.com,3257,High Frequency,Obsolete Browser,81,75,1
+192.168.1.44,North Korea,device_30,user48@example.com,1760,Normal,Obsolete Browser,32,100,1
+192.168.1.88,Mexico,device_38,user20@example.com,1983,Normal,Firefox,112,10,0
+192.168.1.123,US,device_30,user44@example.com,2588,Normal,Safari,54,0,0
+192.168.1.144,US,device_42,user24@example.com,3677,Unusual,Safari,16,35,0
+192.168.1.49,North Korea,device_5,user19@example.com,3336,Normal,Chrome,91,80,1
+192.168.1.200,Canada,device_8,user16@example.com,105,Normal,Chrome,16,65,1
+192.168.1.74,Germany,device_6,user9@example.com,946,Normal,Obsolete Browser,103,75,1
+192.168.1.216,US,device_30,user41@example.com,4254,Unusual,Chrome,76,50,0
+192.168.1.208,North Korea,device_5,user38@example.com,1597,Unusual,Firefox,85,80,1
+192.168.1.95,Germany,device_24,user40@example.com,2654,Unusual,Firefox,93,10,0
+192.168.1.125,Mexico,device_46,user15@example.com,2590,Unusual,Firefox,45,10,0
+192.168.1.96,Mexico,device_14,user23@example.com,1244,Unusual,Chrome,119,30,0
+192.168.1.113,North Korea,device_40,user20@example.com,3026,High Frequency,Firefox,54,90,1
+192.168.1.224,Mexico,device_36,user21@example.com,2231,Normal,Chrome,23,45,0
+192.168.1.111,Iran,device_45,user24@example.com,1182,High Frequency,Chrome,86,100,1
+192.168.1.12,Mexico,device_29,user49@example.com,794,Unusual,Safari,55,10,0
+192.168.1.227,Canada,device_18,user27@example.com,1137,Normal,Firefox,43,10,0
+192.168.1.118,Canada,device_30,user2@example.com,4117,Unusual,Safari,52,60,1
+192.168.1.150,Canada,device_30,user36@example.com,3631,Normal,Obsolete Browser,12,90,1
+192.168.1.106,Germany,device_31,user27@example.com,2017,High Frequency,Chrome,60,40,0
+192.168.1.146,Germany,device_26,user48@example.com,845,Normal,Safari,47,10,0
+192.168.1.38,Canada,device_3,user10@example.com,3283,Unusual,Firefox,20,65,1
+192.168.1.74,Germany,device_22,user26@example.com,3016,High Frequency,Obsolete Browser,54,85,1
+192.168.1.104,Canada,device_49,user6@example.com,105,High Frequency,Safari,44,60,1
+192.168.1.54,Canada,device_15,user18@example.com,2137,Unusual,Firefox,45,10,0
+192.168.1.143,North Korea,device_42,user48@example.com,2258,High Frequency,Firefox,69,90,1
+192.168.1.252,Iran,device_49,user6@example.com,3095,Normal,Obsolete Browser,33,100,1
+192.168.1.131,Mexico,device_26,user48@example.com,1508,High Frequency,Firefox,77,40,0
+192.168.1.118,Canada,device_23,user16@example.com,2433,Unusual,Safari,116,10,0
+192.168.1.30,Germany,device_49,user25@example.com,3481,High Frequency,Obsolete Browser,63,85,1
+192.168.1.194,Iran,device_21,user49@example.com,1845,Unusual,Chrome,104,60,1
+192.168.1.42,Mexico,device_13,user39@example.com,737,Unusual,Chrome,74,10,0
+192.168.1.185,US,device_48,user45@example.com,4315,Unusual,Chrome,55,50,0
+192.168.1.232,Iran,device_47,user44@example.com,4293,Normal,Firefox,12,100,1
+192.168.1.45,US,device_19,user2@example.com,1269,Unusual,Safari,72,0,0
+192.168.1.205,North Korea,device_45,user31@example.com,3265,Unusual,Chrome,53,60,1
+192.168.1.148,North Korea,device_42,user10@example.com,982,High Frequency,Safari,38,90,1
+192.168.1.69,Iran,device_11,user50@example.com,4916,Normal,Chrome,69,100,1
+192.168.1.247,Canada,device_12,user1@example.com,1410,Unusual,Firefox,120,10,0
+192.168.1.24,North Korea,device_13,user31@example.com,2630,Normal,Obsolete Browser,56,100,1
+192.168.1.237,US,device_23,user16@example.com,4058,High Frequency,Chrome,18,100,1
+192.168.1.122,Iran,device_33,user5@example.com,1568,Normal,Firefox,98,60,1
+192.168.1.114,Canada,device_50,user43@example.com,1676,High Frequency,Firefox,24,75,1
+192.168.1.169,Germany,device_29,user50@example.com,2709,High Frequency,Obsolete Browser,10,100,1
+192.168.1.142,Germany,device_6,user22@example.com,2963,High Frequency,Firefox,54,60,1
+192.168.1.155,Canada,device_8,user13@example.com,2623,Unusual,Firefox,113,30,0
+192.168.1.254,Mexico,device_11,user39@example.com,149,Unusual,Chrome,61,10,0
+192.168.1.195,US,device_39,user33@example.com,2656,High Frequency,Firefox,21,65,1
+192.168.1.41,Germany,device_37,user48@example.com,563,High Frequency,Chrome,120,40,0
+192.168.1.66,Iran,device_12,user10@example.com,50,Normal,Obsolete Browser,111,100,1
+192.168.1.220,Mexico,device_13,user32@example.com,3367,Unusual,Safari,95,10,0
+192.168.1.198,Germany,device_31,user12@example.com,3492,High Frequency,Chrome,70,40,0
+192.168.1.21,Germany,device_4,user37@example.com,2823,High Frequency,Firefox,11,95,1
+192.168.1.160,Mexico,device_22,user5@example.com,1787,Normal,Firefox,104,25,0
+192.168.1.104,Mexico,device_50,user34@example.com,4496,Unusual,Firefox,45,60,1
+192.168.1.159,Iran,device_32,user9@example.com,133,Normal,Obsolete Browser,56,100,1
+192.168.1.201,Canada,device_31,user22@example.com,4541,Unusual,Obsolete Browser,63,100,1
+192.168.1.62,Iran,device_6,user7@example.com,1742,Unusual,Firefox,35,80,1
+192.168.1.178,US,device_28,user2@example.com,2147,Unusual,Safari,61,0,0
+192.168.1.150,Canada,device_23,user11@example.com,1124,Normal,Firefox,32,10,0
+192.168.1.35,Germany,device_22,user38@example.com,1469,Normal,Firefox,48,10,0
+192.168.1.191,Germany,device_15,user45@example.com,4929,Normal,Obsolete Browser,75,100,1
+192.168.1.186,Germany,device_30,user22@example.com,4986,Normal,Safari,63,60,1
+192.168.1.36,Canada,device_14,user36@example.com,1102,High Frequency,Chrome,33,40,0
+192.168.1.37,Germany,device_13,user16@example.com,97,Unusual,Firefox,40,10,0
+192.168.1.30,North Korea,device_35,user24@example.com,167,Normal,Safari,107,60,1
+192.168.1.238,Germany,device_30,user5@example.com,1662,High Frequency,Firefox,86,55,0
+192.168.1.11,Canada,device_16,user33@example.com,529,High Frequency,Chrome,96,40,0
+192.168.1.76,North Korea,device_31,user8@example.com,1620,Unusual,Safari,74,60,1
+192.168.1.179,Canada,device_13,user22@example.com,3552,High Frequency,Chrome,70,40,0
+192.168.1.251,North Korea,device_34,user8@example.com,4688,High Frequency,Obsolete Browser,66,100,1
+192.168.1.108,Germany,device_43,user3@example.com,4280,Normal,Obsolete Browser,55,100,1
+192.168.1.201,Germany,device_4,user38@example.com,402,Normal,Safari,15,65,1
+192.168.1.206,Canada,device_41,user16@example.com,2573,Unusual,Chrome,64,10,0
+192.168.1.164,Germany,device_8,user31@example.com,4084,Unusual,Obsolete Browser,45,100,1
+192.168.1.105,Iran,device_23,user10@example.com,2214,Normal,Chrome,60,60,1
+192.168.1.150,Iran,device_38,user9@example.com,3116,Normal,Safari,105,60,1
+192.168.1.2,Germany,device_44,user22@example.com,491,Normal,Safari,64,50,0
+192.168.1.194,Mexico,device_32,user17@example.com,3614,Unusual,Firefox,106,25,0
+192.168.1.100,Mexico,device_47,user10@example.com,2767,High Frequency,Safari,17,75,1
+192.168.1.96,Mexico,device_41,user25@example.com,4472,Normal,Obsolete Browser,13,100,1
+192.168.1.147,Canada,device_25,user38@example.com,4687,Normal,Safari,55,60,1
+192.168.1.57,US,device_39,user16@example.com,3362,High Frequency,Firefox,76,30,0
+192.168.1.203,Germany,device_44,user3@example.com,2980,Unusual,Obsolete Browser,83,55,0
+192.168.1.219,North Korea,device_10,user1@example.com,3288,Unusual,Obsolete Browser,101,100,1
+192.168.1.15,US,device_14,user9@example.com,3019,Normal,Safari,103,0,0
+192.168.1.145,US,device_1,user34@example.com,3353,Unusual,Obsolete Browser,53,65,1
+192.168.1.229,Mexico,device_15,user49@example.com,4949,High Frequency,Firefox,13,100,1
+192.168.1.109,US,device_45,user22@example.com,4129,High Frequency,Firefox,111,80,1
+192.168.1.44,Mexico,device_24,user12@example.com,4528,Normal,Obsolete Browser,39,100,1
+192.168.1.226,Mexico,device_21,user5@example.com,4257,High Frequency,Obsolete Browser,106,100,1
+192.168.1.245,North Korea,device_32,user44@example.com,781,Unusual,Safari,34,75,1
+192.168.1.219,Iran,device_28,user32@example.com,1936,Unusual,Obsolete Browser,49,100,1
+192.168.1.97,Canada,device_9,user15@example.com,1055,High Frequency,Chrome,119,60,1
+192.168.1.198,Germany,device_35,user18@example.com,1462,Normal,Safari,86,25,0
+192.168.1.9,Iran,device_38,user48@example.com,4452,Unusual,Chrome,115,100,1
+192.168.1.88,Canada,device_11,user26@example.com,1276,Normal,Safari,75,10,0
+192.168.1.54,Germany,device_19,user20@example.com,2082,High Frequency,Firefox,70,40,0
+192.168.1.153,Iran,device_14,user4@example.com,2145,Normal,Obsolete Browser,57,100,1
+192.168.1.132,Iran,device_25,user45@example.com,558,Normal,Chrome,64,60,1
+192.168.1.231,Iran,device_45,user37@example.com,1989,Unusual,Safari,15,95,1
+192.168.1.254,Iran,device_13,user28@example.com,2242,High Frequency,Obsolete Browser,20,100,1
+192.168.1.37,Germany,device_6,user2@example.com,1986,High Frequency,Firefox,112,60,1
+192.168.1.177,Germany,device_31,user7@example.com,1574,Normal,Chrome,86,10,0
+192.168.1.162,North Korea,device_48,user14@example.com,4913,High Frequency,Chrome,57,100,1
+192.168.1.153,Canada,device_34,user14@example.com,1611,Unusual,Firefox,45,10,0
+192.168.1.182,Canada,device_49,user31@example.com,327,Unusual,Firefox,21,70,1
+192.168.1.3,US,device_2,user23@example.com,4354,Normal,Safari,91,100,1
+192.168.1.13,North Korea,device_18,user27@example.com,1080,Normal,Firefox,43,60,1
+192.168.1.39,Germany,device_28,user38@example.com,826,High Frequency,Safari,99,55,0
+192.168.1.203,North Korea,device_10,user13@example.com,3357,Normal,Obsolete Browser,39,100,1
+192.168.1.63,Germany,device_39,user48@example.com,4422,Unusual,Firefox,94,60,1
+192.168.1.231,Germany,device_7,user49@example.com,34,Normal,Chrome,74,30,0
+192.168.1.66,North Korea,device_40,user13@example.com,3013,Normal,Firefox,83,80,1
+192.168.1.109,North Korea,device_29,user24@example.com,3106,High Frequency,Firefox,108,90,1
+192.168.1.17,North Korea,device_30,user38@example.com,241,Unusual,Chrome,20,95,1
+192.168.1.46,Germany,device_27,user49@example.com,3671,Unusual,Safari,93,35,0
+192.168.1.223,US,device_6,user14@example.com,1585,Normal,Obsolete Browser,111,65,1
+192.168.1.164,Mexico,device_30,user14@example.com,394,Normal,Obsolete Browser,99,55,0
+192.168.1.162,Canada,device_7,user30@example.com,2887,Normal,Obsolete Browser,82,75,1
+192.168.1.41,Mexico,device_3,user12@example.com,1050,Normal,Chrome,97,30,0
+192.168.1.117,US,device_25,user6@example.com,124,High Frequency,Firefox,43,30,0
+192.168.1.215,US,device_14,user30@example.com,3304,High Frequency,Firefox,111,30,0
+192.168.1.85,US,device_18,user36@example.com,1879,High Frequency,Chrome,98,30,0
+192.168.1.78,Canada,device_43,user2@example.com,3272,Normal,Firefox,71,10,0
+192.168.1.246,Canada,device_41,user40@example.com,1870,High Frequency,Safari,90,40,0
+192.168.1.58,Germany,device_22,user24@example.com,2872,Unusual,Firefox,39,25,0
+192.168.1.124,Germany,device_12,user10@example.com,2163,High Frequency,Safari,54,40,0
+192.168.1.141,Canada,device_4,user47@example.com,2721,Normal,Chrome,38,30,0
+192.168.1.157,Germany,device_30,user48@example.com,3643,High Frequency,Chrome,100,40,0
+192.168.1.69,Mexico,device_33,user45@example.com,2525,High Frequency,Firefox,28,75,1
+192.168.1.102,Canada,device_10,user45@example.com,2657,High Frequency,Safari,43,60,1
+192.168.1.25,Canada,device_2,user3@example.com,64,Unusual,Firefox,80,30,0
+192.168.1.53,Iran,device_29,user5@example.com,1766,Normal,Obsolete Browser,54,100,1
+192.168.1.148,US,device_9,user29@example.com,77,Unusual,Chrome,54,20,0
+192.168.1.174,Mexico,device_23,user15@example.com,4291,High Frequency,Obsolete Browser,25,100,1
+192.168.1.44,North Korea,device_20,user15@example.com,2450,Normal,Firefox,114,60,1
+192.168.1.128,US,device_45,user45@example.com,1565,Normal,Firefox,40,0,0
+192.168.1.66,North Korea,device_40,user7@example.com,4876,Normal,Firefox,24,100,1
+192.168.1.76,North Korea,device_6,user18@example.com,2009,High Frequency,Firefox,56,100,1
+192.168.1.76,US,device_18,user19@example.com,4737,High Frequency,Firefox,86,80,1
+192.168.1.211,Germany,device_33,user46@example.com,626,High Frequency,Firefox,55,65,1
+192.168.1.252,Iran,device_36,user32@example.com,2956,High Frequency,Firefox,47,90,1
+192.168.1.175,Canada,device_8,user45@example.com,2783,Normal,Safari,56,30,0
+192.168.1.137,Germany,device_44,user29@example.com,4668,High Frequency,Obsolete Browser,120,100,1
+192.168.1.88,US,device_27,user23@example.com,1991,High Frequency,Safari,56,30,0
+192.168.1.59,Germany,device_28,user2@example.com,4434,High Frequency,Obsolete Browser,100,100,1
+192.168.1.104,North Korea,device_8,user50@example.com,4886,Normal,Safari,88,100,1
+192.168.1.82,Germany,device_10,user18@example.com,2298,Normal,Obsolete Browser,84,75,1
+192.168.1.75,Mexico,device_40,user9@example.com,2122,High Frequency,Obsolete Browser,61,85,1
+192.168.1.170,Germany,device_14,user33@example.com,4490,High Frequency,Safari,88,90,1
+192.168.1.235,Germany,device_14,user15@example.com,4517,High Frequency,Obsolete Browser,88,100,1
+192.168.1.185,Canada,device_14,user43@example.com,782,High Frequency,Chrome,80,65,1
+192.168.1.217,Mexico,device_48,user44@example.com,1214,Unusual,Safari,69,10,0
+192.168.1.198,Canada,device_32,user13@example.com,4662,Unusual,Firefox,91,75,1
+192.168.1.101,Mexico,device_11,user42@example.com,854,Normal,Obsolete Browser,60,55,0
+192.168.1.17,North Korea,device_13,user48@example.com,3571,Normal,Safari,27,100,1
+192.168.1.58,North Korea,device_31,user25@example.com,919,Normal,Obsolete Browser,96,100,1
+192.168.1.163,Mexico,device_35,user36@example.com,1694,Unusual,Chrome,90,10,0
+192.168.1.59,Germany,device_16,user6@example.com,342,High Frequency,Firefox,11,75,1
+192.168.1.162,North Korea,device_48,user6@example.com,3557,Normal,Chrome,19,95,1
+192.168.1.195,Canada,device_50,user33@example.com,1599,High Frequency,Obsolete Browser,79,85,1
+192.168.1.126,US,device_27,user38@example.com,2393,Normal,Firefox,86,0,0
+192.168.1.171,US,device_2,user10@example.com,3545,Unusual,Safari,80,20,0
+192.168.1.245,Mexico,device_49,user25@example.com,3463,Normal,Firefox,35,10,0
+192.168.1.80,Iran,device_5,user28@example.com,1248,High Frequency,Firefox,75,100,1
+192.168.1.255,North Korea,device_27,user40@example.com,1463,Normal,Safari,82,60,1
+192.168.1.36,Canada,device_9,user7@example.com,601,Normal,Safari,64,30,0
+192.168.1.61,Iran,device_30,user23@example.com,1139,Normal,Chrome,46,60,1
+192.168.1.151,Germany,device_21,user1@example.com,2611,Normal,Safari,109,55,0
+192.168.1.102,Germany,device_33,user24@example.com,2084,Unusual,Chrome,48,10,0
+192.168.1.48,Germany,device_15,user49@example.com,4645,Normal,Obsolete Browser,10,100,1
+192.168.1.213,North Korea,device_9,user45@example.com,392,Unusual,Safari,60,95,1
+192.168.1.204,North Korea,device_42,user1@example.com,1252,High Frequency,Obsolete Browser,38,100,1
+192.168.1.152,Iran,device_30,user40@example.com,4979,Normal,Safari,59,100,1
+192.168.1.104,US,device_38,user10@example.com,3882,Unusual,Firefox,24,35,0
+192.168.1.91,North Korea,device_5,user50@example.com,4215,Normal,Safari,22,100,1
+192.168.1.41,Canada,device_14,user29@example.com,4681,Unusual,Safari,35,60,1
+192.168.1.111,Mexico,device_9,user26@example.com,390,Unusual,Safari,53,50,0
+192.168.1.204,US,device_37,user48@example.com,1286,Normal,Chrome,76,0,0
+192.168.1.244,North Korea,device_17,user9@example.com,2271,Unusual,Safari,62,60,1
+192.168.1.251,Germany,device_7,user10@example.com,1571,High Frequency,Firefox,116,60,1
+192.168.1.13,Canada,device_31,user3@example.com,4541,Unusual,Chrome,101,60,1
+192.168.1.202,Mexico,device_38,user42@example.com,487,Normal,Obsolete Browser,68,75,1
+192.168.1.201,Iran,device_40,user29@example.com,2018,High Frequency,Safari,111,90,1
+192.168.1.163,Germany,device_25,user8@example.com,2513,Unusual,Safari,97,10,0
+192.168.1.41,Mexico,device_10,user20@example.com,573,High Frequency,Obsolete Browser,63,100,1
+192.168.1.193,Iran,device_36,user30@example.com,1917,High Frequency,Obsolete Browser,61,100,1
+192.168.1.26,Germany,device_9,user28@example.com,2623,Normal,Firefox,33,55,0
+192.168.1.119,North Korea,device_21,user44@example.com,4633,High Frequency,Safari,20,100,1
+192.168.1.74,Iran,device_50,user36@example.com,2499,High Frequency,Firefox,48,90,1
+192.168.1.144,Mexico,device_2,user18@example.com,1158,High Frequency,Chrome,96,60,1
+192.168.1.59,North Korea,device_6,user10@example.com,3880,Unusual,Obsolete Browser,100,100,1
+192.168.1.198,North Korea,device_36,user4@example.com,3956,Unusual,Chrome,99,60,1
+192.168.1.175,North Korea,device_35,user19@example.com,4078,High Frequency,Chrome,38,100,1
+192.168.1.216,Mexico,device_8,user43@example.com,418,Unusual,Chrome,79,45,0
+192.168.1.234,Germany,device_33,user33@example.com,869,Unusual,Safari,41,10,0
+192.168.1.117,Iran,device_19,user15@example.com,253,Unusual,Firefox,29,95,1
+192.168.1.184,Canada,device_8,user24@example.com,1524,Normal,Firefox,84,30,0
+192.168.1.170,Germany,device_36,user3@example.com,117,High Frequency,Firefox,29,75,1
+192.168.1.54,North Korea,device_5,user30@example.com,505,Unusual,Obsolete Browser,45,100,1
+192.168.1.249,North Korea,device_27,user40@example.com,4126,Unusual,Safari,40,100,1
+192.168.1.96,Canada,device_27,user10@example.com,3764,High Frequency,Obsolete Browser,97,85,1
+192.168.1.182,Canada,device_33,user50@example.com,838,Unusual,Obsolete Browser,38,55,0
+192.168.1.193,Iran,device_29,user30@example.com,985,High Frequency,Firefox,57,90,1
+192.168.1.44,Germany,device_41,user28@example.com,1446,High Frequency,Chrome,11,75,1
+192.168.1.37,North Korea,device_31,user32@example.com,52,Normal,Firefox,93,60,1
+192.168.1.208,Canada,device_33,user28@example.com,3450,Normal,Firefox,87,10,0
+192.168.1.187,US,device_46,user46@example.com,773,Unusual,Chrome,107,0,0
+192.168.1.254,Germany,device_18,user14@example.com,3752,High Frequency,Firefox,113,40,0
+192.168.1.156,Canada,device_46,user37@example.com,2470,Unusual,Obsolete Browser,78,70,1
+192.168.1.158,Germany,device_41,user37@example.com,2611,Unusual,Safari,80,10,0
+192.168.1.34,Germany,device_50,user23@example.com,3200,Normal,Safari,71,10,0
+192.168.1.48,US,device_8,user17@example.com,898,Unusual,Firefox,41,20,0
+192.168.1.164,Canada,device_5,user4@example.com,2268,Unusual,Obsolete Browser,49,75,1
+192.168.1.167,Canada,device_41,user40@example.com,920,High Frequency,Firefox,29,75,1
+192.168.1.15,US,device_27,user41@example.com,1606,Normal,Firefox,96,0,0
+192.168.1.168,Germany,device_30,user6@example.com,109,Unusual,Chrome,120,10,0
+192.168.1.49,North Korea,device_16,user36@example.com,1081,Unusual,Firefox,62,60,1
+192.168.1.54,Mexico,device_7,user2@example.com,3187,High Frequency,Chrome,108,60,1
+192.168.1.208,US,device_31,user37@example.com,4990,Normal,Chrome,16,85,1
+192.168.1.50,Germany,device_7,user27@example.com,2077,High Frequency,Safari,75,75,1
+192.168.1.49,Mexico,device_36,user11@example.com,2225,Unusual,Safari,33,10,0
+192.168.1.147,North Korea,device_7,user28@example.com,3297,Normal,Obsolete Browser,60,100,1
+192.168.1.136,US,device_8,user31@example.com,4329,Unusual,Chrome,26,100,1
+192.168.1.40,North Korea,device_29,user28@example.com,3740,Normal,Obsolete Browser,97,100,1
+192.168.1.15,Canada,device_30,user21@example.com,1287,Normal,Obsolete Browser,35,55,0
+192.168.1.194,North Korea,device_6,user3@example.com,1419,Unusual,Firefox,87,80,1
+192.168.1.253,Mexico,device_36,user10@example.com,1520,Normal,Chrome,46,10,0
+192.168.1.96,Iran,device_41,user9@example.com,3525,High Frequency,Firefox,12,100,1
+192.168.1.250,North Korea,device_2,user12@example.com,1676,Unusual,Obsolete Browser,80,100,1
+192.168.1.33,North Korea,device_49,user11@example.com,3732,High Frequency,Firefox,88,90,1
+192.168.1.4,Canada,device_23,user10@example.com,4811,Unusual,Chrome,81,100,1
+192.168.1.116,Germany,device_4,user47@example.com,2757,Unusual,Chrome,87,30,0
+192.168.1.223,Iran,device_7,user29@example.com,4559,Unusual,Firefox,94,100,1
+192.168.1.195,US,device_12,user25@example.com,925,Unusual,Chrome,85,0,0
+192.168.1.127,Mexico,device_6,user50@example.com,258,Unusual,Chrome,112,30,0
+192.168.1.5,Germany,device_1,user37@example.com,2448,Normal,Chrome,12,100,1
+192.168.1.179,Mexico,device_41,user18@example.com,1499,Unusual,Obsolete Browser,73,55,0
+192.168.1.85,US,device_46,user28@example.com,829,Unusual,Obsolete Browser,41,45,0
+192.168.1.135,Canada,device_47,user21@example.com,1585,High Frequency,Chrome,112,40,0
+192.168.1.40,Germany,device_36,user2@example.com,2560,Normal,Safari,86,10,0
+192.168.1.37,Iran,device_25,user34@example.com,1138,High Frequency,Obsolete Browser,115,100,1
+192.168.1.1,North Korea,device_42,user1@example.com,345,Unusual,Firefox,81,100,1
+192.168.1.198,US,device_41,user19@example.com,4978,Unusual,Safari,59,50,0
+192.168.1.98,Mexico,device_10,user10@example.com,4630,Unusual,Safari,88,80,1
+192.168.1.241,North Korea,device_37,user20@example.com,769,Unusual,Safari,100,75,1
+192.168.1.215,US,device_37,user29@example.com,596,High Frequency,Safari,114,30,0
+192.168.1.250,Mexico,device_41,user15@example.com,4966,High Frequency,Obsolete Browser,120,100,1
+192.168.1.16,Germany,device_35,user11@example.com,3091,Unusual,Safari,65,10,0
+192.168.1.35,Canada,device_7,user26@example.com,4080,Normal,Firefox,115,80,1
+192.168.1.239,Mexico,device_19,user5@example.com,3238,High Frequency,Obsolete Browser,71,85,1
+192.168.1.120,Germany,device_23,user9@example.com,4582,High Frequency,Safari,36,90,1
+192.168.1.45,Mexico,device_4,user2@example.com,4424,High Frequency,Safari,57,100,1
+192.168.1.26,US,device_28,user40@example.com,3857,Unusual,Chrome,41,20,0
+192.168.1.86,US,device_18,user17@example.com,19,High Frequency,Obsolete Browser,72,75,1
+192.168.1.42,US,device_17,user40@example.com,3523,High Frequency,Chrome,30,30,0
+192.168.1.61,North Korea,device_7,user49@example.com,1674,High Frequency,Obsolete Browser,53,100,1
+192.168.1.145,Germany,device_29,user8@example.com,3277,Normal,Chrome,44,25,0
+192.168.1.27,Mexico,device_36,user47@example.com,4814,Unusual,Chrome,38,60,1
+192.168.1.29,Canada,device_39,user30@example.com,3465,High Frequency,Chrome,66,40,0
+192.168.1.168,Canada,device_14,user16@example.com,3128,Normal,Obsolete Browser,90,55,0
+192.168.1.241,Canada,device_9,user39@example.com,2416,Unusual,Safari,39,30,0
+192.168.1.42,Iran,device_20,user30@example.com,3242,Normal,Safari,18,95,1
+192.168.1.231,Canada,device_39,user34@example.com,1169,Unusual,Obsolete Browser,25,90,1
+192.168.1.109,Iran,device_40,user26@example.com,891,High Frequency,Chrome,12,100,1
+192.168.1.251,US,device_35,user18@example.com,1175,Normal,Firefox,37,0,0
+192.168.1.55,US,device_23,user28@example.com,2888,High Frequency,Chrome,82,45,0
+192.168.1.2,Germany,device_30,user16@example.com,3665,High Frequency,Obsolete Browser,47,100,1
+192.168.1.92,Germany,device_12,user33@example.com,4080,High Frequency,Safari,98,90,1
+192.168.1.207,North Korea,device_6,user46@example.com,3758,Normal,Chrome,54,80,1
+192.168.1.240,Mexico,device_34,user21@example.com,3582,Normal,Obsolete Browser,84,70,1
+192.168.1.24,Canada,device_19,user22@example.com,1859,Unusual,Safari,106,10,0
+192.168.1.238,US,device_29,user17@example.com,4726,Unusual,Firefox,119,50,0
+192.168.1.220,Germany,device_19,user28@example.com,4538,High Frequency,Firefox,36,90,1
+192.168.1.68,Germany,device_49,user29@example.com,1499,High Frequency,Obsolete Browser,73,85,1
+192.168.1.117,Germany,device_25,user26@example.com,4906,Normal,Chrome,29,100,1
+192.168.1.187,Mexico,device_46,user25@example.com,1648,Unusual,Safari,36,10,0
+192.168.1.195,Mexico,device_15,user41@example.com,4393,Unusual,Chrome,120,60,1
+192.168.1.61,Mexico,device_21,user24@example.com,2536,Unusual,Firefox,60,10,0
+192.168.1.231,Germany,device_5,user17@example.com,3653,High Frequency,Chrome,92,60,1
+192.168.1.54,Iran,device_46,user40@example.com,3204,High Frequency,Chrome,37,90,1
+192.168.1.54,Iran,device_32,user26@example.com,3543,Normal,Safari,35,80,1
+192.168.1.17,Mexico,device_26,user41@example.com,2760,Unusual,Firefox,10,45,0
+192.168.1.3,North Korea,device_41,user28@example.com,3867,High Frequency,Firefox,40,100,1
+192.168.1.225,Germany,device_31,user44@example.com,3913,High Frequency,Obsolete Browser,57,85,1
+192.168.1.60,Mexico,device_18,user11@example.com,993,Unusual,Firefox,72,10,0
+192.168.1.224,Canada,device_3,user26@example.com,1537,Unusual,Obsolete Browser,83,75,1
+192.168.1.123,Iran,device_28,user30@example.com,4225,Unusual,Chrome,108,100,1
+192.168.1.218,Germany,device_11,user39@example.com,546,Normal,Obsolete Browser,73,55,0
+192.168.1.59,Germany,device_15,user3@example.com,2435,High Frequency,Chrome,119,65,1
+192.168.1.193,Iran,device_24,user29@example.com,1867,Normal,Obsolete Browser,91,100,1
+192.168.1.232,Iran,device_1,user16@example.com,2584,Normal,Safari,102,80,1
+192.168.1.34,US,device_36,user28@example.com,2865,Normal,Safari,11,35,0
+192.168.1.174,Germany,device_29,user31@example.com,230,Unusual,Safari,78,10,0
+192.168.1.229,Canada,device_18,user44@example.com,2733,High Frequency,Safari,23,95,1
+192.168.1.100,US,device_35,user40@example.com,3638,Unusual,Safari,56,0,0
+192.168.1.137,Canada,device_35,user27@example.com,2596,Normal,Chrome,33,10,0
+192.168.1.179,US,device_30,user37@example.com,4861,Normal,Obsolete Browser,31,95,1
+192.168.1.181,Iran,device_1,user45@example.com,3840,High Frequency,Firefox,73,100,1
+192.168.1.194,North Korea,device_23,user5@example.com,1307,High Frequency,Chrome,46,90,1
+192.168.1.248,Iran,device_25,user11@example.com,3579,High Frequency,Firefox,99,90,1
+192.168.1.178,US,device_30,user22@example.com,3912,Unusual,Chrome,32,0,0
+192.168.1.29,Mexico,device_37,user18@example.com,236,Unusual,Obsolete Browser,94,55,0
+192.168.1.103,North Korea,device_3,user25@example.com,1376,High Frequency,Chrome,50,100,1
+192.168.1.60,US,device_8,user8@example.com,1305,Unusual,Safari,111,20,0
+192.168.1.148,North Korea,device_18,user23@example.com,3146,Unusual,Chrome,87,60,1
+192.168.1.231,US,device_9,user17@example.com,1547,Unusual,Firefox,65,40,0
+192.168.1.134,Mexico,device_33,user10@example.com,1151,Normal,Safari,85,25,0
+192.168.1.69,Mexico,device_17,user27@example.com,4643,Unusual,Obsolete Browser,70,100,1
+192.168.1.186,US,device_21,user9@example.com,4506,Normal,Obsolete Browser,59,95,1
+192.168.1.55,Mexico,device_4,user18@example.com,996,High Frequency,Firefox,97,60,1
+192.168.1.215,Canada,device_19,user18@example.com,4186,Unusual,Firefox,69,80,1
+192.168.1.157,Iran,device_50,user14@example.com,4005,Unusual,Obsolete Browser,61,100,1
+192.168.1.226,North Korea,device_40,user41@example.com,2425,High Frequency,Obsolete Browser,66,100,1
+192.168.1.49,North Korea,device_33,user46@example.com,4890,High Frequency,Chrome,27,100,1
+192.168.1.7,US,device_14,user16@example.com,2827,Normal,Safari,38,40,0
+192.168.1.16,US,device_20,user10@example.com,2592,High Frequency,Safari,72,45,0
+192.168.1.157,Germany,device_2,user20@example.com,3543,Unusual,Safari,54,30,0
+192.168.1.231,Mexico,device_8,user8@example.com,1548,Normal,Obsolete Browser,61,75,1
+192.168.1.185,Germany,device_31,user7@example.com,3290,Unusual,Firefox,114,10,0
+192.168.1.140,Mexico,device_25,user12@example.com,3984,High Frequency,Firefox,56,40,0
+192.168.1.181,Germany,device_22,user24@example.com,4344,Normal,Obsolete Browser,110,100,1
