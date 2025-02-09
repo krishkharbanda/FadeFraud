@@ -9,7 +9,11 @@ function Home() {
   return (
     <div className="app">
       <main className="homepage">
-        <h1 className="homepage-title">FadeFraud</h1>
+      <img 
+        src="/logo.png"
+        alt="FadeFraud Logo"
+        className="homepage-title"
+      />
         <Link to="/login" className="login-button">
           Log in
         </Link>
