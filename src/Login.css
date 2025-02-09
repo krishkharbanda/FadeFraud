@@ -1,0 +1,90 @@
+
+
+/* Login form container */
+.login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  /* Input fields */
+  .login-input {
+    width: 100%;
+    padding: 1rem;
+    font-size: 1rem;
+    border: 2px solid white;
+    border-radius: 0.75rem;
+    background: white; /* White background */
+    color: white; /* White text */
+    text-align: center;
+    outline: none;
+    transition: all 0.3s ease;
+  }
+  
+  .login-input::placeholder {
+    color: rgba(0, 0, 0, 0.5); /* Darker placeholder text */
+  }
+  
+  .login-input:focus {
+    background: white;
+    color: black; /* Change text color on focus */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Login button */
+  .login-button {
+    background-color: white;
+    color: #FF7F50;
+    padding: 1rem 2.5rem;
+    border-radius: 0.85rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    border: none;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    margin-top: 1rem;
+  }
+  
+  .login-button:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 14px rgba(0, 0, 0, 0.25);
+  }
+  
+  /* Sign-up text */
+.signup-text {
+    font-size: 1rem; /* Smaller font size */
+    margin-top: 1rem;
+    background-color: white; /* White box */
+    color: #FF7F50; /* Orange text color */
+    padding: 0.75rem 1.5rem;
+    border-radius: 0.75rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    display: inline-block;
+    font-weight: 600;
+  }
+  
+  /* New line for sign up link */
+  .signup-link-container {
+    margin-top: 0.75rem;
+    text-align: center;
+  }
+  
+  /* Sign up link */
+  .signup-link {
+    color: #FF7F50;
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.3s ease;
+  }
+  
+  .signup-link:hover {
+    color: white;
+    text-decoration: underline;
+  }
+  
