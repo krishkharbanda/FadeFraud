@@ -14,7 +14,7 @@ def handle_webhook():
             new_transactions = data.get("added", [])
 
             for txn in new_transactions:
-                txn["user_id"] = txn.get("account_id")  # Map user ID properly
+                txn["user_id"] = txn.get("account_id")
                 transactions_collection.update_one(
                     {"transaction_id": txn["transaction_id"]},
                     {"$set": txn},
