@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Grid from '@mui/material/Grid';
+import './Dashboard.css'; 
+
  import {
   Accordion,
   AccordionSummary,
@@ -38,7 +40,8 @@ import Grid from '@mui/material/Grid';
   Warning as WarningIcon,
   CloudUpload as CloudUploadIcon,
   Refresh as RefreshIcon,
-  Info as FiberManualRecordIcon
+  Info as FiberManualRecordIcon,
+  Opacity
  
  
  } from '@mui/icons-material';
@@ -622,10 +625,17 @@ import Grid from '@mui/material/Grid';
         )}
  
  
-        <Card sx={{ mb: 3 }}>
+        <Card sx={{ 
+          mb: 3,
+          borderRadius: '16px', 
+          backgroundColor: '#fff3e0', 
+          boxShadow: 3 
+          }}>
           <CardContent>
             <Box display="flex" justifyContent="space-between" alignItems="center" mb={2}>
-              <Typography variant="h5">AI-Powered Fraud Analysis Dashboard</Typography>
+            <Typography variant="h5" sx={{ fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif' }}>
+            AI-Powered Fraud Analysis Dashboard
+            </Typography>
               <Tooltip title="Check API Status">
                 <IconButton onClick={checkApiStatus} color={apiStatus ? "success" : "error"}>
                   <RefreshIcon />
@@ -700,33 +710,36 @@ import Grid from '@mui/material/Grid';
         {(transactions.high.length > 0 || transactions.medium.length > 0 || transactions.low.length > 0) && (
             <Box sx={{ mt: 3 }}>
               <Grid container spacing={3} sx={{ mb: 3 }}>
-                <Grid item xs={12} md={4}>
-                  <RiskCard
-                      title="High"
-                      count={transactions.high.length}
-                      color="error.main"
-                      icon={<ErrorIcon color="error" />}
-                  />
-                </Grid>
-                <Grid item xs={12} md={4}>
-                  <RiskCard
-                      title="Medium"
-                      count={transactions.medium.length}
-                      color="warning.main"
-                      icon={<WarningIcon color="warning" />}
-                  />
-                </Grid>
-                <Grid item xs={12} md={4}>
-                  <RiskCard
-                      title="Low"
-                      count={transactions.low.length}
-                      color="success.main"
-                      icon={<CheckCircleIcon color="success" />}
-                  />
-                </Grid>
+                {[
+                  { title: "High", count: transactions.high.length, color: "error.main", icon: <ErrorIcon color="error" /> },
+                  { title: "Medium", count: transactions.medium.length, color: "warning.main", icon: <WarningIcon color="warning" /> },
+                  { title: "Low", count: transactions.low.length, color: "success.main", icon: <CheckCircleIcon color="success" /> },
+                ].map((item, index) => (
+                  <Grid item xs={12} md={4} key={index} sx={{ display: "flex" }}>
+                    <RiskCard
+                      title={item.title}
+                      count={item.count}
+                      icon={item.icon}
+                      sx={{
+                        flexGrow: 1,
+                        height: "100%",
+                        border: `2px solid`, 
+                        borderColor: item.color,
+                        color: item.color, // Keeps text/icons in theme colors
+                        fontFamily: "SF Pro Display, -apple-system, BlinkMacSystemFont, sans-serif", 
+                        display: "flex",
+                        flexDirection: "column",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        borderRadius: 2,
+                        boxShadow: 1,
+                        p: 2,
+                      }}
+                    />
+                  </Grid>
+                ))}
               </Grid>
- 
- 
+
               {selectedRisk && (
                   <Paper sx={{ mb: 3 }}>
                     <TableContainer>
