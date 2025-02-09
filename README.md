@@ -1,7 +1,13 @@
 # FadeFraud
 
 ## Overview
-This application tracks credit card transactions in real-time using the **Plaid API** and evaluates them for fraud using a **machine learning model**. The model is hosted as a **RESTful API** using Flask. If a transaction is flagged as fraudulent, the system immediately notifies the user via email.
+FadeFraud is an ML model that evaluates transactions for fraud using a specific set of rules and a Random Forest Regression algorithm to determine a fraud score for each transaction and the reasons why. This model is integrated into 2 projects:
+
+### Consumer-Facing:
+This application tracks credit card transactions in real-time using the **Plaid API** and evaluates them for fraud using the model. The model is hosted as a **RESTful API** using Flask. If a transaction is flagged as fraudulent, the system immediately notifies the user via email.
+
+### Corporate-Facinng
+This application uploads a CSV of secure transactions made by users to the dashboard and uses the model, also hosted as a **RESTful API** using Flask, to evaluate them all at once. The transactions are then separated by high, medium, and low risk, and the reasons why each transaction is flagged.
 
 ## Features
 - **Real-time transaction monitoring** via Plaid API
