@@ -9,12 +9,14 @@ def handle_webhook():
     webhook_type = data.get("webhook_type")
     webhook_code = data.get("webhook_code")
 
-    if webhook_type == "TRANSACTIONS":
-        if webhook_code == "TRANSACTIONS_ADDED":
-            new_transactions = data.get("added", [])
+    print(webhook_type, webhook_code)
 
+    if webhook_type == "TRANSACTIONS":
+        if webhook_code == "DEFAULT_UPDATE":
+            new_transactions = data.get("added", [])
+            print(new_transactions)
             for txn in new_transactions:
-                txn["user_id"] = txn.get("account_id")  # Map user ID properly
+                txn["user_id"] = txn.get("account_id")
                 transactions_collection.update_one(
                     {"transaction_id": txn["transaction_id"]},
                     {"$set": txn},
