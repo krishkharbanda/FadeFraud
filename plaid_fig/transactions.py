@@ -29,13 +29,4 @@ def get_transactions():
     response = requests.post(url, json=payload).json()
     transactions = response.get("transactions", [])
 
-    # Save transactions
-    for txn in transactions:
-        txn["user_id"] = user_id
-        transactions_collection.update_one(
-            {"transaction_id": txn["transaction_id"]},
-            {"$set": txn},
-            upsert=True
-        )
-
     return jsonify({"success": True, "transactions": transactions})

@@ -24,7 +24,6 @@ def get_access_token():
     if "access_token" in response:
         access_token = response["access_token"]
 
-        # Store in MongoDB
         users_collection.update_one(
             {"user_id": user_id},
             {"$set": {"access_token": access_token}},
